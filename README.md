@@ -77,7 +77,11 @@ Text
 - [ThinkPython2e](https://penseallen.github.io/PensePython2e/03-funcoes.html) [PT-BR]
 - [Python 3 in 1 Hour](http://xahlee.info/python/python3_basics.html) [EN-US]
 - [Python](https://devdocs.io/python~3.7/) [EN-US]
-  
+- [Python Documentation by Version](https://www.python.org/doc/versions/) [EN-US]
+- [Python for Developers](https://ricardoduarte.github.io/python-para-desenvolvedores/) [PT-BR]
+- [Python for Zombies](https://www.pycursos.com/python-para-zumbis/) [PT-BR]
+- [Python from Basic to Professional](http://www.linuxpro.com.br/2017/04/python-do-basico-ao-profissional/) [PT-BR]
+
 ### Course Python 3 from Basic to Advanced
 
 - []() [EN-US]
