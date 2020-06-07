@@ -1,0 +1,8 @@
+# Atualizado para Python 3.8
+sudo apt install python3.8 python3.8-dev python3-venv python3.8-venv python3-venv idle-python3.8 python3-pip virtualenv gcc default-libmysqlclient-dev libssl-dev
+
+python3.8 -m pip install --upgrade pip setuptools wheel --user
+python3.8 -m pip install pipenv --user
+export PATH="/home/$USER/.local/bin:$PATH"
+sudo apt install snapd snapd-xdg-open
+sudo snap install pycharm-community --classic

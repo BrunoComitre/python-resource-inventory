@@ -1,0 +1,2 @@
+python -m pip install --upgrade pip setuptools wheel --user --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org
+python -m pip install pipenv --user --trusted-host pypi.python.org --trusted-host files.pythonhosted.org
