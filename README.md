@@ -84,6 +84,14 @@ Text
 
 ### Course Python 3 from Basic to Advanced
 
+- [Download PyCharm Windows](https://www.jetbrains.com/pycharm/download/#section=windows) [EN-US]
+- [Python Releases for Windows](https://www.python.org/downloads/windows/) [EN-US]
+- [Download PyCharm Ubuntu](https://www.jetbrains.com/pycharm/download/#section=linux) [EN-US]
+- [Download the latest version for Windows](https://www.python.org/downloads/) [EN-US]
+- [luizomf/check-numbers-python](https://github.com/luizomf/check-numbers-python/blob/master/chk_numbers.py) [PT-BR]
+- [Built-in Functions](https://docs.python.org/3/library/functions.html) [EN-US]
+- [Built-in Types](https://docs.python.org/3/library/stdtypes.html) [EN-US]
+
 - []() [EN-US]
 - []() [PT-BR]
 
