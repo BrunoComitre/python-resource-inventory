@@ -108,7 +108,7 @@ class MainHandler(AsyncTestCase):
     @gen_test    
     async def get_pull_result():
         url = (
-            'https://raw.githubusercontent.com'
+            'https://google.com'
             '/backstage/functions/mastar/package.json'
         )
         response = await AsyncHTTPClient().fetch(url,

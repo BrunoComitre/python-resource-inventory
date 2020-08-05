@@ -1,4 +1,0 @@
-asyncio==3.4.3
-signals==0.0.2
-aiohttp==3.6.0
-jsonlib==1.6.1
