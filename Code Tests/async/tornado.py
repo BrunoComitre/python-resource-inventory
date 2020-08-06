@@ -17,17 +17,17 @@ async def consumer():
             await gen.sleep(ts)
         finally:
             q.task_done()
-
+            
 async def producer():
     for item in range(5):
         await q.put(item)
         print(f' Colocando em: {item}')
-
+        
 async def main():
     # Inicie o consumer sem esperar (pois nunca termina).
     IOLoop.current().spawn_callback(consumer)
     await producer()     # Aguarde o producer colocar todas as tarefas.
     await q.join()       # Aguarde o consumer concluir todas as tarefas.
     print('Done')
-
+    
 IOLoop.current().run_sync(main)

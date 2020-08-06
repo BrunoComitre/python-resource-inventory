@@ -43,8 +43,14 @@ O Event Loop é o gerenciador de Tasks
 ## Referências
 
 - [Tutorial de loops de eventos assíncronos](https://tutorialedge.net/python/concurrency/asyncio-event-loops-tutorial/)
-- [asyncio — Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)
+- [asyncio — Asynchronous I/O](https://docs.python.org/pt-br/3/library/asyncio.html)
 - [Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
+- [Event Loop](https://docs.python.org/pt-br/3/library/asyncio-eventloop.html)
+- [Futures](https://docs.python.org/pt-br/3/library/asyncio-future.html)
+- [heapq — Heap queue algorithm](https://docs.python.org/pt-br/3/library/heapq.html)
+- []()
+- []()
+- []()
 - []()
   
 ***
