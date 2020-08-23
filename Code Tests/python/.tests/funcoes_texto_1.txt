@@ -1,7 +1,0 @@
-- Meu texto
-oi,
-meu
-nome
-é
-Goku
-final do texto
