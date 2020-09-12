@@ -30,7 +30,7 @@
     - [Media](#media)
     - [HTTP](#http)
     - [API](#api)
-      - [COMUNICAÇÃO:](#comunica%c3%87%c3%83o)
+      - [COMUNICAÇÃO:](#comunicação)
       - [API:](#api-1)
         - [API REST:](#api-rest)
         - [RESTFUL(SOAP):](#restfulsoap)
@@ -60,8 +60,8 @@
 
 ## TO-DO
 
-- [ ] Translate Texts Into English
-- [ ] If Possible Justify File
+- [ ] Traduzir para Português
+- [ ] Se possível justificar arquivo
 
 <br />
 
@@ -99,9 +99,6 @@ Open-Source Libraries: [34 Amazing Python Open Source Libraries for the Past Yea
 Open-Source Projects : [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)
 
 [10 Extraordinary GitHub Repos for All Developers](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0) [EN-US]
-
-Name: [NAME](LINK) [PT-BR] </br>
-Name: [NAME](LINK) [EN-US]
 
 **First**
 
@@ -162,9 +159,6 @@ And that's it: this is the Area's Introductory Package. You are now able to star
 - [PyJobs](https://www.pyjobs.com.br/) [PT-BR] - Encontre aqui as melhores vagas e profissionais Python.
 - [Boosting your career as a developer](https://leportella.com/english/2020/02/26/boosting-your-career.html) [EN-US] - Boosting your career as a developer.
 
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
-
 [GO TO INDEX](#index)
 
 **Comments:**
@@ -182,9 +176,6 @@ And that's it: this is the Area's Introductory Package. You are now able to star
 ## Knowledge
 
 [DESCRIBE KNOWLEDGE HERE]
-
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -234,9 +225,6 @@ Below is a list of sites that offer a variety of free and paid courses:
 - [Data School](https://www.dataschool.io/) [EN-US] - Cursos de Ciência de Dados.
 - [Dataquest](https://www.dataquest.io) [PT-BR] - Aprenda Python, R, SQL, visualização de dados, análise de dados e aprendizado de máquina.
 
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
-
 [GO TO INDEX](#index)
 
 <br />
@@ -267,8 +255,6 @@ Below is a list of paid and free books:
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring) [EN-US]
 - [Elixir Books](https://github.com/sger/ElixirBooks) [EN-US]
 - [The Linux Programming Interface](https://archive.org/details/The_Linux_Programming_Interface/mode/2up) [EN-US]
-- [NAME](LINK) [PT-BR]
-- [NAME](LINK) [EN-US]
 
 [GO TO INDEX](#index)
 
@@ -292,8 +278,6 @@ Below is a list of paid and free books:
 - Start Programming Today with Python!: EN-US [LINK](https://www.udemy.com/free-python/)
 - Python Object Oriented Full Guide: EN-US [LINK](https://www.udemy.com/python-object-oriented-from-scratch/)
 - Google's Python Class: EN-US [LINK](https://developers.google.com/edu/python/)
-- [NAME](LINK) [PT-BR]
-- [NAME](LINK) [EN-US]
 
 [GO TO INDEX](#index)
 
@@ -357,8 +341,6 @@ Below is a list of personal and company websites aimed at Python, Data Science, 
 - [Hipsters Ponto Tech](https://hipsters.tech/primeiros-passos-em-data-science-do-excel-e-bi-ao-python-hipsters-134/) [PT-BR] - Podcast onde o pessoal da Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia.
 - [Shane Lynn](https://www.shanelynn.ie/) [EN-US] - Personal Blog.
 - [Martin Fowler](hhttps://martinfowler.com/) [EN-US] - An author, speaker…essentially a loud-mouthed pundit on the topic of software development, primarily for Enterprise Applications. 
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -402,8 +384,6 @@ Below is a list of YouTube Channels, Videos I liked and Playlist to study and ke
 - Video [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo) [EN-US] - Os objetivos da IA são criar uma máquina que imite a mente humana e, para isso, ela precisa de recursos de aprendizado.
 - Video [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) [EN-US] -  Aprendizagem por Auto-aprendizagem e Aprendizado de Recursos Não Supervisionados.
 - Video [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) [EN-US] - Uma abordagem de aprendizado de máquina inspirada no cérebro.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -435,8 +415,6 @@ Below is a list of favorite sites to stay informed:
 - [Journal of Big Data](http://journalofbigdata.springeropen.com/) [EN-US] - Publica trabalhos acadêmicos de alta qualidade, metodologias e estudos de caso abrangendo uma ampla gama de tópicos, desde análise de big data a computação intensiva em dados e todas as aplicações de pesquisa em big data.
 - [Big Data & Society](http://journals.sagepub.com/home/bds) [EN-US] - É um periódico acadêmico revisado por pares que publica trabalhos interdisciplinares principalmente em ciências sociais, humanidades e computação e suas interseções com as artes e ciências naturais sobre as implicações do Big Data para as sociedades.
 - [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj) [EN-US] - Permite que você pesquise, navegue e cite com facilidade os artigos mais recentes publicados por sociedades acadêmicas no Japão e você pode acessar documentos usando a referência de referência ou a ligação citada.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -455,8 +433,6 @@ Hacker Noon Rips Out Medium’s Software, Replaces it With Their Own.
 - [Concretebr](https://medium.com/concretebr) [PT-BR] - Nós desenvolvemos produtos digitais com inovação, agilidade e excelentes práticas, para queo mercado brasileiro e latino-americano.
 - [freecodecamp](https://www.freecodecamp.org/news/) [EN-US] - Learn to code with free online courses, programming projects, and interview preparation for developer jobs.
 - [geeksforgeeks](https://www.geeksforgeeks.org/) [EN-US] - A Computer Science portal for geeks.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -482,8 +458,6 @@ Below is a list of favorite sites that have a variety of topics related to compu
 - [DevBrasil](http://devbrasil.net/) [PT-BR] - A maior rede social para desenvolvedores de software no Brasil aprendendo, compartilhando e conquistando novas oportunidades.
 - [Computing Research Repository](https://arxiv.org/corr/home) [EN-US] - Repositório de Pesquisa em Computação. Permite que os pesquisadores pesquisem, naveguem e baixem documentos através de seu repositório online. 
 - [Department of Computer Science](https://www.cs.vu.nl/~ast/) [EN-US] - Andrew S. Tanenbaum's Home Page.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -493,9 +467,6 @@ Below is a list of favorite sites that have a variety of topics related to compu
 
 [DESCRIBE FRONT END DEVELOPMENT HERE]
 
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
-
 [GO TO INDEX](#index)
 
 <br />
@@ -503,9 +474,6 @@ Below is a list of favorite sites that have a variety of topics related to compu
 ## Back-End Development
 
 [DESCRIBE BACK END DEVELOPMENT HERE]
-
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -535,8 +503,6 @@ Below is a list of sites that have an introduction to what Python is:
 - [Dive Into Python 3](https://diveintopython3.problemsolving.io/) [EN-US]
 - [Python Brasil](https://python.org.br/) [PT-BR]
 - [Python](https://www.python.org/) [EN-US]
-- [NAME](LINK) [PT-BR]
-- [NAME](LINK) [EN-US]
 
 [GO TO INDEX](#index)
 
@@ -550,8 +516,6 @@ Style Guide for Python Code:
 - [PEP 513 -- A Platform Tag for Portable Linux Built Distributions](https://www.python.org/dev/peps/pep-0513/) [EN-US] - This PEP proposes the creation of a new platform tag for Python package built distributions, such as wheels, called *manylinux1_{x86_64,i686}* with external dependencies limited to a standardized, restricted subset of the Linux kernel and core userspace ABI.
 - [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/) [EN-US] - This PEP documents the semantics and conventions associated with Python docstrings.
 - [PEP 465 -- A dedicated infix operator for matrix multiplication]([LINK](https://www.python.org/dev/peps/pep-0465/)) [EN-US] - This PEP proposes a new binary operator to be used for matrix multiplication, called @. (Mnemonic: @ is * for mATrices.)
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -562,8 +526,6 @@ Style Guide for Python Code:
 Below is a list of sites that have an introduction to what HTTP Requests is:
 
 - [Difference Between Those HTTP Requests](https://dev.to/flippedcoding/difference-between-those-http-requests-2m13) [EN-US]
-- [NAME](LINK) [PT-BR]
-- [NAME](LINK) [EN-US]
 
 [GO TO INDEX](#index)
 
@@ -572,9 +534,6 @@ Below is a list of sites that have an introduction to what HTTP Requests is:
 ### Media
 
 [DESCRIBE MEDIA HERE]
-
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -586,8 +545,6 @@ Below is a list of sites that have an introduction to what HTTP Requests is:
 [DESCRIBE HTTP HERE]
 
 - [Guia de início rápido](https://requests.readthedocs.io/pt_BR/latest/user/quickstart.html) [PT-BR] - Esta página dá uma boa introdução em como começar a usar Requests.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -640,8 +597,6 @@ Existe uma certa confusão quanto aos termos REST e RESTful. Entretanto, ambos r
 
 - [Testando serviços Web API com Postman](https://medium.com/@thi_carva/testando-servi%C3%A7os-web-api-com-postman-874ac81b20a3) - Lista de Status Return Code
 - [O que é API? REST e RESTful? Conheça as definições e diferenças!](https://becode.com.br/o-que-e-api-rest-e-restful/) -  API, REST e “RESTful”
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -655,8 +610,6 @@ Existe uma certa confusão quanto aos termos REST e RESTful. Entretanto, ambos r
 - [Filosofias de Projeto](https://docs.djangoproject.com/pt-br/3.0/misc/design-philosophies/#dry) [PT-BR] - Este documento explica algumas filosofias que os desenvolvedores do Django tem usado ao criar o framework. Seu objetivo é de explicar o passado e guiar o futuro.
 - [Refactoring.Guru](https://refactoring.guru/) [EN-US] - Makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
 - [SourceMaking](https://sourcemaking.com/) [EN-US] - I will tell you a lot of stories about good software architecture and teach you how to create it with design patterns. I will guide you through anti-patterns, common pitfalls and mistakes that people make when they plan, create, and manage software projects. In the end, I will teach you how to smell a bad code and improve it with refactoring.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -667,8 +620,6 @@ Existe uma certa confusão quanto aos termos REST e RESTful. Entretanto, ambos r
 [DESCRIBE DEVELOPMENT ENVIRONMENT HERE]
 
 - [Criando ambientes virtuais para projetos Python com o Virtualenv](https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv/) [PT-BR] - Um ambiente virtual empacota todas as dependências que um projeto precisa e armazena em um diretório, fazendo com que nenhum pacote seja instalado diretamente no sistema operacional.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -684,8 +635,6 @@ Agile software development comprises various approaches to software development 
 - [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) [EN-US] - Is an agile process framework for managing complex knowledge work, with an initial emphasis on software development, although it has been used in other fields and is slowly starting to be explored for other complex work, research and advanced technologies.
 - [Kanban](https://en.wikipedia.org/wiki/Kanban) [EN-US] - Is a scheduling system for lean manufacturing and just-in-time manufacturing (JIT).
 - [Code Style](https://docs.python-guide.org/writing/style/) [EN-US] - One reason for the high readability of Python code is its relatively complete set of Code Style guidelines and “Pythonic” idioms.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -705,8 +654,6 @@ Agile software development comprises various approaches to software development 
 - [Refactoring](https://sourcemaking.com/refactoring) [EN-US] - Bloaters are code, methods and classes that have increased to such gargantuan proportions that they are hard to work with.
 - [AntiPatterns](https://sourcemaking.com/antipatterns) [EN-US] - AntiPatterns, like their design pattern counterparts, define an industry vocabulary for the common defective processes and implementations within organizations. 
 - [Design Patterns](https://sourcemaking.com/design_patterns) [EN-US] - In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -715,9 +662,6 @@ Agile software development comprises various approaches to software development 
 ### Microservices
 
 [DESCRIBE MICROSERVICES HERE]
-
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -757,8 +701,6 @@ Below is a list of tools that make the job easier:
 - [AdelaiDet](https://github.com/aim-uofa/AdelaiDet) - AdelaiDet is an open source toolbox for multiple instance-level recognition tasks on top of Detectron2. All instance-level recognition works from our group are open-sourced here.
 - [Spinnaker](https://www.spinnaker.io/concepts/) [EN-US] - Spinnaker is an open-source, multi-cloud continuous delivery platform that helps you release software changes with high velocity and confidence.
 - [PyCharm](https://www.jetbrains.com/pycharm/) [EN-US] - The Python IDE for Professional Developers.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -795,8 +737,6 @@ Below is a list of tools that make the job easier:
 - [Sonic](https://github.com/valeriansaliou/sonic) [EN-US] - Sonic is a fast, lightweight and schema-less search backend. It ingests search texts and identifier tuples that can then be queried against in a microsecond's time.
 - [Masonite](https://github.com/MasoniteFramework/masonite) [EN-US] - The modern and developer centric Python web framework that strives for an actual batteries included developer tool with a lot of out of the box functionality with an extremely extendable architecture.
 - [Eve](https://github.com/pyeve/eve) [EN-US] - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services. Eve offers native support for MongoDB, and SQL backends via community extensions.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -822,8 +762,6 @@ The following are some libraries dedicated to the study in Basic Python. There a
 - [Pip](https://pypi.org/project/pip/) - It's a package management system used to install and manage software packages written in the Python programming language.
 - [Urllib](https://docs.python.org/3/library/urllib.html) - It's a Python module for searching URLs.
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - It's a Python package for analyzing HTML and XML documents.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -835,8 +773,6 @@ The following are some libraries dedicated to the study in Basic Python. There a
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Pesquise o conjunto de dados Awesome.
 - [Awesome Search](https://awesomelists.top) - Pesquisa rápida por listas impressionantes.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -866,8 +802,6 @@ Os links abaixo vieram de: [sindresorhus/awesome](https://github.com/sindresorhu
 - [payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypasses for Web Application Security.
 - [No Code](https://github.com/kelseyhightower/nocode) - No code is the best way to write secure and reliable applications.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -924,8 +858,6 @@ Below is a list of saved links related to Python studies:
 - [Flask Web Development](https://www.flaskbook.com/) [EN-US]
 - [keep a changelog](https://keepachangelog.com/en/1.0.0/) [EN-US]
 - [Curso de Selenium com Python](https://dunossauro.github.io/curso-python-selenium/) [PT-BR]
-- [NAME](LINK) [PT-BR]
-- [NAME](LINK) [EN-US]
 
 [GO TO INDEX](#index)
 
@@ -946,8 +878,6 @@ Below are lists with more content that increase the capacity of this list to get
 - [Cursos de Python](https://github.com/weltonvaz/cursos) [PT-BR] - Cursos e apostilas gratuitos online de Python.
 - [Guia do Cientista de Dados das Galáxias](https://github.com/leportella/datascience-pizza/blob/master/README.md) [PT-BR] - Este repositório foi feito pela e para a comunidade. 
 - [The Book os Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -976,9 +906,6 @@ Scielo is a digital library of FAPESP, CNPq, Pan American Health Organization, V
 
 [All IT ebooks](http://www.allitebooks.org/) - Free IT eBooks Download.
 
-[NAME](LINK) [PT-BR] - DESCRIPTION
-[NAME](LINK) [EN-US] - DESCRIPTION
-
 [GO TO INDEX](#index)
 
 <br />
@@ -990,8 +917,6 @@ Below is a list of sites to put Python knowledge into practice:
 - [Lista De Exercicio para Python](https://wiki.python.org.br/ListaDeExercicios) [PT-BR] - Esta é uma lista com sugestões de programas para iniciantes em programação.
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login) [EN-US] - O principal objetivo é promover a prática de programação e o compartilhamento de conhecimento.
 - [Kaggle](https://www.kaggle.com/) [EN-US] - Kaggle é o lugar para fazer projetos de Ciência de Dados.
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -1000,9 +925,6 @@ Below is a list of sites to put Python knowledge into practice:
 ## Tutorials
 
 Below is a list of tutorials I did and keep saved so they can help more people:
-
-- [NAME](LINK) [PT-BR] - DESCRIPTION
-- [NAME](LINK) [EN-US] - DESCRIPTION
 
 [GO TO INDEX](#index)
 
@@ -1015,8 +937,6 @@ Below is a list of tutorials I did and keep saved so they can help more people:
 - [O que é Markdown?](http://cursos.leg.ufpr.br/prr/capMarkdown.html) [PT-BR]
 - [CommonMark - Uma especificação fortemente definida e altamente compatível do Markdown](https://commonmark.org/help/) [EN-US]
 - [Markdown Tutorial](https://github.com/luongvo209/Markdown-Tutorial/blob/master/README_pt-BR.md#tools) [EN-US]
-- [NAME](LINK) [PT-BR]
-- [NAME](LINK) [EN-US]
 
 [GO TO INDEX](#index)
 
@@ -1032,8 +952,6 @@ Below is a list of tutorials I did and keep saved so they can help more people:
 - [No final das contas: o que é o Docker e como ele funciona?](https://www.treinaweb.com.br/blog/no-final-das-contas-o-que-e-o-docker-e-como-ele-funciona/) [PT-BR]
 - [Tutorial Docker Iniciando E Como Rodar Containers](https://carlos-algms.github.io/blog/tutorial-docker-iniciando-e-como-rodar-containers/) [PT-BR]
 - [O que é o Kubernetes?](https://www.redhat.com/pt-br/topics/containers/what-is-kubernetes#) [PT-BR]
-- [NAME](LINK) [PT-BR]
-- [NAME](LINK) [EN-US]
 
 [GO TO INDEX](#index)
 
@@ -1141,9 +1059,6 @@ git push <nome do origin> <nome do branch> --delete
 ```
 
 Pegar a branch, mandar as coisas dela pra develop mas sem fechar: git checkout develop && git merge feature/architecture && git push origin develop
-
-- [NAME](LINK) [PT-BR]
-- [NAME](LINK) [EN-US]
 
 [GO TO INDEX](#index)
 
