@@ -98,7 +98,7 @@ Open-Source Libraries: [34 Amazing Python Open Source Libraries for the Past Yea
 
 Open-Source Projects : [36 Amazing Python Open Source Projects (v.2019)](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)
 
-[10 Extraordinary GitHub Repos for All Developers](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0) [EN-US]
+[10 Extraordinary GitHub Repos for All Developers](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
 
 **First**
 
@@ -156,8 +156,8 @@ And that's it: this is the Area's Introductory Package. You are now able to star
 
 [DESCRIBE CARRER HERE]
 
-- [PyJobs](https://www.pyjobs.com.br/) [PT-BR] - Encontre aqui as melhores vagas e profissionais Python.
-- [Boosting your career as a developer](https://leportella.com/english/2020/02/26/boosting-your-career.html) [EN-US] - Boosting your career as a developer.
+- [PyJobs](https://www.pyjobs.com.br/) - Encontre aqui as melhores vagas e profissionais Python.
+- [Boosting your career as a developer](https://leportella.com/english/2020/02/26/boosting-your-career.html) - Boosting your career as a developer.
 
 [GO TO INDEX](#index)
 
@@ -185,45 +185,45 @@ And that's it: this is the Area's Introductory Package. You are now able to star
 
 Below is a list of sites that offer a variety of free and paid courses:
 
-- [edX](https://www.edx.org) [EN-US] - Aprendizagem flexível de programação.
-- [Coursera](https://www.coursera.org) [EN-US] - Aprenda habilidades com as melhores universidades gratuitamente.
-- [Udacity](https://br.udacity.com/) [EN-US] - Cursos e Certificações.
-- [Edraak](https://www.edraak.org/en/) [EN-US] - Edraak, é uma plataforma massiva de curso online aberto (MOOC), que é uma iniciativa da Fundação Queen Rania (QRF).
-- [Open HPI](https://www.openhpi.de) [EN-US] - MOOC´S para Ler e Aprender.
-- [MIT OPEN COURSEWARE](https://www.ocw.mit.edu) [EN-US] -  É uma publicação baseada na Web de praticamente todos os conteúdos do curso MIT, aberto e disponível para o mundo.
-- [cK-12](https://www.ck12.org) [EN-US] - 100% de aprendizado gratuito e personalizado para cada aluno.
-- [Udemy](https://www.udemy.com) [EN-US] - A maior seleção de cursos do mundo.
-- [SKILLSHARE](https://www.skillshare.com) [EN-US] - Skillshare é uma comunidade de aprendizagem on-line com milhares de classes em design, negócios, tecnologia e muito mais. 
-- [Codecademy](https://www.codecademy.com) [EN-US] - Aprenda as habilidades técnicas que você precisa para o trabalho que você quer.
-- [P2PU](https://www.p2pu.org) [EN-US] - conecta os recursos educacionais abertos a caminhos de carreira de uma forma equitativa e capacitante.
-- [Saylor Academy](https://www.saylor.org) [EN-US] - Saylor Academy é uma iniciativa sem fins lucrativos trabalhando desde 2008 para oferecer livre e aberto cursos on-line para todos os que querem aprender.
-- [Academic Earth](https://www.academicearth.org) [EN-US] - Encontre cursos on-line gratuitos, palestras e vídeos das melhores faculdades como Yale, MIT e Stanford.
-- [Learn To Be](https://www.learntobe.org) [EN-US] - Organização sem fins lucrativos que traz 1-on-1, tutoria on-line para os jovens.
+- [edX](https://www.edx.org) - Aprendizagem flexível de programação.
+- [Coursera](https://www.coursera.org) - Aprenda habilidades com as melhores universidades gratuitamente.
+- [Udacity](https://br.udacity.com/) - Cursos e Certificações.
+- [Edraak](https://www.edraak.org/en/) - Edraak, é uma plataforma massiva de curso online aberto (MOOC), que é uma iniciativa da Fundação Queen Rania (QRF).
+- [Open HPI](https://www.openhpi.de) - MOOC´S para Ler e Aprender.
+- [MIT OPEN COURSEWARE](https://www.ocw.mit.edu) -  É uma publicação baseada na Web de praticamente todos os conteúdos do curso MIT, aberto e disponível para o mundo.
+- [cK-12](https://www.ck12.org) - 100% de aprendizado gratuito e personalizado para cada aluno.
+- [Udemy](https://www.udemy.com) - A maior seleção de cursos do mundo.
+- [SKILLSHARE](https://www.skillshare.com) - Skillshare é uma comunidade de aprendizagem on-line com milhares de classes em design, negócios, tecnologia e muito mais. 
+- [Codecademy](https://www.codecademy.com) - Aprenda as habilidades técnicas que você precisa para o trabalho que você quer.
+- [P2PU](https://www.p2pu.org) - conecta os recursos educacionais abertos a caminhos de carreira de uma forma equitativa e capacitante.
+- [Saylor Academy](https://www.saylor.org) - Saylor Academy é uma iniciativa sem fins lucrativos trabalhando desde 2008 para oferecer livre e aberto cursos on-line para todos os que querem aprender.
+- [Academic Earth](https://www.academicearth.org) - Encontre cursos on-line gratuitos, palestras e vídeos das melhores faculdades como Yale, MIT e Stanford.
+- [Learn To Be](https://www.learntobe.org) - Organização sem fins lucrativos que traz 1-on-1, tutoria on-line para os jovens.
 - [Floqq](https://www.floqq.com) - FLOQQ é o maior curso de vídeo de língua espanhola motor de busca.
 - [Course Talk](https://www.coursetalk.org) [CA-ES] - Descobre os melhores cursos da Web com base em seus interesses e feedback de estudantes.
-- [Marginal Revolution University](https://www.mruniversity.com) [EN-US] -  Cria vídeos econômicos gratuitos e engajados ministrados por professores de topo.
-- [Alison](https://www.alison.com) [EN-US] - Cursos on-line gratuitos com certificados.
-- [Data Science Academy](https://www.datascienceacademy.com.br/) [PT-BR] - Comunidade de especialistas em Ciência de Dados.
-- [SOLYD](https://solyd.com.br/) [PT-BR] - Treinamentos e cursos online.
-- [DataCamp](https://www.datacamp.com/) [EN-US] - Aprenda Ciência de Dados online.
-- [Google for Education](https://developers.google.com/edu/python/) [EN-US] - Classe Python do Google.
-- [VEDUCA](https://veduca.org/) [PT-BR] - Aqui você estuda de graça
+- [Marginal Revolution University](https://www.mruniversity.com) -  Cria vídeos econômicos gratuitos e engajados ministrados por professores de topo.
+- [Alison](https://www.alison.com) - Cursos on-line gratuitos com certificados.
+- [Data Science Academy](https://www.datascienceacademy.com.br/) - Comunidade de especialistas em Ciência de Dados.
+- [SOLYD](https://solyd.com.br/) - Treinamentos e cursos online.
+- [DataCamp](https://www.datacamp.com/) - Aprenda Ciência de Dados online.
+- [Google for Education](https://developers.google.com/edu/python/) - Classe Python do Google.
+- [VEDUCA](https://veduca.org/) - Aqui você estuda de graça
   e pode conquistar seu certificado por um preço que cabe no seu bolso.
-- [Fundação Bradesco](https://www.ev.org.br/) [PT-BR] - A Escola Virtual é um portal educacional que disponibiliza cursos livres, gratuitamente, na modalidade a distância. 
-- [Khan Academy](https://www.khanacademy.org/) [EN-US] - Oferece exercícios práticos, vídeos instrutivos e um painel de aprendizagem personalizado que capacita os alunos a estudar em seu próprio ritmo dentro e fora da sala de aula.
-- [EADCCNA](http://eadccna.com.br/index.html) [PT-BR] - Variedade de cursos on-line em TI.
-- [Canal do Ensino](http://canaldoensino.com.br/blog/) [PT-BR] - Cursos gratuitos e livros de domínio público. 
-- [4Linux](https://www.4linux.com.br/) [PT-BR] - Cursos de linux e open software.
-- [Impacta](https://www.impacta.com.br/) [PT-BR] - Cursos de TI, Gestão e Design.
-- [Microsoft Academy](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/) [EN-US] - Programa Profissional Microsoft para Inteligência Artificial.
-- [Microsoft Virtual Academy](https://mva.microsoft.com/) [EN-US] - Treinamento grátis da Microsoft oferecido por especialistas.
-- [Universia](http://noticias.universia.com.br/destaque/especial/2013/07/10/1035282/8/700-cursos-online-gratis-das-melhores-universidades-do-mundo/cursos-online-gratis-de-ci%C3%AAncia-da-computa%C3%A7%C3%A3o-e-intelig%C3%AAncia-artificial.html) [PT-BR] - A Universia Brasil reuniu 700 cursos online grátis das melhores universidades do Brasil e do mundo. Confira os cursos das áreas da Ciência da Computação e Inteligência Artificial.
-- [Duolingo](https://www.duolingo.com/) [EN-US] - Aprenda idiomas de graça, para sempre.
-- [e-stude](http://e-stude.com/site/) [EN-US] - Plataforma de e-learning voltada para a capacitação de equipes de desenvolvimento de software.
-- [Google Developers](https://developers.google.com/machine-learning/crash-course/) [EN-US] - O Curso de Aprendizado de Aprendizado de Máquina.
-- [Acclaim](https://www.youracclaim.com/skills/data-science/related_badges) [EN-US] - Conclua uma série de cursos on-line de Ciência de Dados.
-- [Data School](https://www.dataschool.io/) [EN-US] - Cursos de Ciência de Dados.
-- [Dataquest](https://www.dataquest.io) [PT-BR] - Aprenda Python, R, SQL, visualização de dados, análise de dados e aprendizado de máquina.
+- [Fundação Bradesco](https://www.ev.org.br/) - A Escola Virtual é um portal educacional que disponibiliza cursos livres, gratuitamente, na modalidade a distância. 
+- [Khan Academy](https://www.khanacademy.org/) - Oferece exercícios práticos, vídeos instrutivos e um painel de aprendizagem personalizado que capacita os alunos a estudar em seu próprio ritmo dentro e fora da sala de aula.
+- [EADCCNA](http://eadccna.com.br/index.html) - Variedade de cursos on-line em TI.
+- [Canal do Ensino](http://canaldoensino.com.br/blog/) - Cursos gratuitos e livros de domínio público. 
+- [4Linux](https://www.4linux.com.br/) - Cursos de linux e open software.
+- [Impacta](https://www.impacta.com.br/) - Cursos de TI, Gestão e Design.
+- [Microsoft Academy](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/) - Programa Profissional Microsoft para Inteligência Artificial.
+- [Microsoft Virtual Academy](https://mva.microsoft.com/) - Treinamento grátis da Microsoft oferecido por especialistas.
+- [Universia](http://noticias.universia.com.br/destaque/especial/2013/07/10/1035282/8/700-cursos-online-gratis-das-melhores-universidades-do-mundo/cursos-online-gratis-de-ci%C3%AAncia-da-computa%C3%A7%C3%A3o-e-intelig%C3%AAncia-artificial.html) - A Universia Brasil reuniu 700 cursos online grátis das melhores universidades do Brasil e do mundo. Confira os cursos das áreas da Ciência da Computação e Inteligência Artificial.
+- [Duolingo](https://www.duolingo.com/) - Aprenda idiomas de graça, para sempre.
+- [e-stude](http://e-stude.com/site/) - Plataforma de e-learning voltada para a capacitação de equipes de desenvolvimento de software.
+- [Google Developers](https://developers.google.com/machine-learning/crash-course/) - O Curso de Aprendizado de Aprendizado de Máquina.
+- [Acclaim](https://www.youracclaim.com/skills/data-science/related_badges) - Conclua uma série de cursos on-line de Ciência de Dados.
+- [Data School](https://www.dataschool.io/) - Cursos de Ciência de Dados.
+- [Dataquest](https://www.dataquest.io) - Aprenda Python, R, SQL, visualização de dados, análise de dados e aprendizado de máquina.
 
 [GO TO INDEX](#index)
 
@@ -233,28 +233,28 @@ Below is a list of sites that offer a variety of free and paid courses:
 
 Below is a list of paid and free books:
 
-- [Pense em Python](https://novatec.com.br/livros/pense-em-python/) - [versão online](https://penseallen.github.io/PensePython2e/) [PT-BR]
-- [Introdução à Programação com Python – 2ª Edição](https://novatec.com.br/livros/introducao-python-2ed/) [PT-BR]
-- [Python para Desenvolvedores](https://novatec.com.br/livros/python-para-desenvolvedores/) [PT-BR]
-- [TDD com Python](https://novatec.com.br/livros/tdd-com-python/) - [versão online](https://github.com/hjwp/Book-TDD-Web-Dev-Python/) [PT-BR]
-- [Data Science do Zero. Primeiras Regras com o Python](https://www.amazon.com.br/gp/product/857608998X/ref=as_li_tl?ie=UTF8&tag=mineradores-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=857608998X&linkId=ca962763fa0115715ca78099451bbfde) [PT-BR]
-- [Python Para Análise de Dados](https://www.amazon.com.br/gp/product/8575226479/ref=as_li_tl?ie=UTF8&tag=mineradores-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=8575226479&linkId=46bee8241a40ad51f2ad2f50aab79a17) [PT-BR]
-- [The Art of Data Usability](https://www.manning.com/books/the-art-of-data-usability) [EN-US]
-- [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist) [EN-US]
-- [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r) [EN-US]
-- [Exploring Data Science](https://www.manning.com/books/exploring-data-science) [EN-US]
-- [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) [EN-US]
-- [Python® for R Users: A Data Science Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126805) [EN-US]
-- [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) [EN-US]
-- [Pattern Recognition and Machine Learning (Information Science and Statistics)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738) [EN-US]
-- [Syncfusion - Ebooks](https://www.syncfusion.com/ebooks) [EN-US]
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) [EN-US]
-- [Free Software Testing Books](https://github.com/ligurio/awesome-software-quality) [EN-US]
-- [Go Books](https://github.com/dariubs/GoBooks) [EN-US]
-- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) [EN-US]
-- [Book Authoring](https://github.com/TalAter/awesome-book-authoring) [EN-US]
-- [Elixir Books](https://github.com/sger/ElixirBooks) [EN-US]
-- [The Linux Programming Interface](https://archive.org/details/The_Linux_Programming_Interface/mode/2up) [EN-US]
+- [Pense em Python](https://novatec.com.br/livros/pense-em-python/) - [versão online](https://penseallen.github.io/PensePython2e/)
+- [Introdução à Programação com Python – 2ª Edição](https://novatec.com.br/livros/introducao-python-2ed/)
+- [Python para Desenvolvedores](https://novatec.com.br/livros/python-para-desenvolvedores/)
+- [TDD com Python](https://novatec.com.br/livros/tdd-com-python/) - [versão online](https://github.com/hjwp/Book-TDD-Web-Dev-Python/)
+- [Data Science do Zero. Primeiras Regras com o Python](https://www.amazon.com.br/gp/product/857608998X/ref=as_li_tl?ie=UTF8&tag=mineradores-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=857608998X&linkId=ca962763fa0115715ca78099451bbfde)
+- [Python Para Análise de Dados](https://www.amazon.com.br/gp/product/8575226479/ref=as_li_tl?ie=UTF8&tag=mineradores-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=8575226479&linkId=46bee8241a40ad51f2ad2f50aab79a17)
+- [The Art of Data Usability](https://www.manning.com/books/the-art-of-data-usability)
+- [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
+- [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
+- [Exploring Data Science](https://www.manning.com/books/exploring-data-science)
+- [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle)
+- [Python® for R Users: A Data Science Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126805)
+- [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
+- [Pattern Recognition and Machine Learning (Information Science and Statistics)](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+- [Syncfusion - Ebooks](https://www.syncfusion.com/ebooks)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [Free Software Testing Books](https://github.com/ligurio/awesome-software-quality)
+- [Go Books](https://github.com/dariubs/GoBooks)
+- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
+- [Book Authoring](https://github.com/TalAter/awesome-book-authoring)
+- [Elixir Books](https://github.com/sger/ElixirBooks)
+- [The Linux Programming Interface](https://archive.org/details/The_Linux_Programming_Interface/mode/2up)
 
 [GO TO INDEX](#index)
 
@@ -287,60 +287,60 @@ Below is a list of paid and free books:
 
 Below is a list of personal and company websites aimed at Python, Data Science, Technologies, Computing and Nerdices in general:
 
-- [O Estatístico](https://oestatistico.com.br/) [PT-BR] - Blog com a missão é promover a estatística de um jeito simples, divertido e ao alcance de todos, como você nunca viu antes.
-- [Pós-Graduando](http://posgraduando.com/blog/) [PT-BR] - Conteúdo e humor diário para alunos de Pós-Graduação.
-- [Paulo Vasconcellos  -  Cientista de Dados Brasileiro](https://paulovasconcellos.com.br/) [PT-BR] - Blog pessoal.
-- [Déborah Mesquita](https://www.deborahmesquita.com/) [PT-BR] - Blog pessoal.
-- [Lucas Caton](https://www.lucascaton.com.br/) [PT-BR] - Blog pessoal.
-- [Hackernoon](https://hackernoon.com/) [EN-US] - Hacker Noon é tudo quanto é assunto que os hackers precisam ao meio-dia.
-- [Mining the Social Web](https://miningthesocialweb.com/) [EN-US] - Um complementar do livro com o objetivo simples de integrar o mainstream social de mineração da web.
-- [Greg Reda](http://www.gregreda.com/) [EN-US] - Personal Blog.
-- [Kevin Davenport](http://kldavenport.com/) [EN-US] - Personal Blog.
-- [Julia Evans](http://jvns.ca/) [EN-US] - Personal Blog.
-- [Becoming a Data Scientist](http://www.becomingadatascientist.com/) [EN-US] - Documentando o caminho de Analista de Dados SQL buscando um Mestrado em Engenharia para Cientista de Dados.
-- [AllThings Data Science](https://allthingsds.wordpress.com/) [EN-US] - Todas as coisas de Ciência de Dados.
-- [MDM – A Geeks Point Of View](http://www.mdmgeek.com/) [EN-US] - Blog de tecnologia no gerenciamento de dados mestre e cada zumbido em torno dele.
-- [The Open Source Data Science Masters](http://datasciencemasters.org/) [EN-US] - O currículo de código aberto para o aprendizado da Ciência de Dados.
-- [Data Science London](http://datasciencelondon.org/) [EN-US] - A Data Science London é uma organização sem fins lucrativos dedicada à divulgação livre e aberta da Ciência de Dados.
-- [John Myles White](http://www.johnmyleswhite.com/) [EN-US] - Personal Blog.
-- [Open Source Research](https://openresearch.wordpress.com/) [EN-US] - Estudante de doutorado no campo de Pesquisa Operacional em Berkeley. 
-- [Louis Dorard](http://www.louisdorard.com/blog/) [EN-US] - Um cara de tecnologia com uma queda pela web e por dados, grandes e pequenos.
-- [Daniel Forsyth](http://www.danielforsyth.me/) [EN-US] - Personal Blog.
-- [Data Science Weekly](https://www.datascienceweekly.org/) [EN-US] - Um boletim semanal gratuito com notícias curadas, artigos e trabalhos relacionados à Ciência de Dados.
-- [Revolution Analytics](http://blog.revolutionanalytics.com/) [EN-US] - Notícias diárias sobre o uso do código aberto R para análise de big data, modelagem preditiva, ciência de dados e visualização.
-- [R Bloggers](https://www.r-bloggers.com/) [EN-US] - R-Bloggers.com é um agregador de blogs de conteúdo contribuído por blogueiros que escrevem sobre R.
-- [Datascope Analytics](https://datascopeanalytics.com/blog/) [EN-US] - Consultoria e design orientados por dados.
-- [Yet Another Data Blog](http://yet-another-data-blog.blogspot.com.tr/) [EN-US] - Reflexões sobre Inteligência Coletiva, Disputas de Dados, Ciência de Dados, Modelagem Preditiva, Start-ups e um repositório de idéias.
-- [KDNuggets](http://www.kdnuggets.com/) [EN-US] - Líder em Análise de Negócios, Big Data, Mineração de Dados, Ciência de Dados e Aprendizado de Máquina.
-- [Dataists](http://www.dataists.com/) [EN-US] - Mais do que ver o seu modelo não possui erros heteroscedásticos.
-- [Data-Mania](http://www.data-mania.com/blog/) [EN-US] - Personal Blog.
-- [Data-Magnum](https://data-magnum.com/blog/) [EN-US] - Fornece as informações, a educação e a avaliação necessárias para o planejamento e a implementação bem-sucedida de projetos de Big Data.
-- [The MapR Blog](https://www.mapr.com/blog) [EN-US] - Encontre insights, práticas recomendadas e recursos úteis para ajudar você a aproveitar os dados de forma mais eficaz no crescimento de seus negócios.
-- [P-value](http://www.p-value.info/) [EN-US] - Reflexões sobre ciência de dados, aprendizado de máquina e estatísticas.
-- [Deepkapha](http://tarrysingh.com/) [EN-US] - Personal Blog.
-- [The File Drawer](http://chris-said.io/) [EN-US] - Personal Blog.
-- [Hilary Parker](https://hilaryparker.com/) [EN-US] - Personal Blog.
-- [Kenny Bastani](http://www.kennybastani.com/) [EN-US] - Personal Blog.
-- [Adventures in Data Land](http://blog.smola.org) [EN-US] - Personal Blog.
-- [DATA MINERS BLOG](http://blog.data-miners.com/) [EN-US] - Um lugar para ler sobre tópicos de interesse para mineradores de dados, fazer perguntas aos especialistas em mineração de dados em data miners.
-- [DATAVERSITY](http://www.dataversity.net/) [EN-US] - Educação de Dados para Negócios e Profissionais de TI.
-- [Ciência e Dados](http://www.cienciaedados.com/) [PT-BR] - O objetivo é conversar sobre a fascinante aventura da Ciência de Dados.
-- [Instituto de Inteligência Artificial Aplicada](https://www.datah.com.br/) [PT-BR] - É uma organização sem fins lucrativos onde jovens estudantes recebem educação gratuita sobre inteligência artificial, desenvolvem projetos.
-- [BiaData Bussiness](http://www.bigdatabusiness.com.br/) [PT-BR] - Informações sobre Big Data.
-- [Portal Action](http://www.portalaction.com.br/) [PT-BR] - O maior portal estatístico do Brasil.
-- [HackerRank](https://www.hackerrank.com/) [EN-US] -  É uma plataforma de contratação de tecnologia que é o padrão para avaliar as habilidades dos desenvolvedores para mais de 1.000 empresas em todo o mundo. 
-- [Revista SQL Magazine](https://www.devmedia.com.br/revista-sql-magazine) [PT-BR] - Conteúdo sobre SQL.
-- [ClaoudML](http://www.claoudml.co/) [EN-US] - Recursos gratuitos de ciência de dados e aprendizado de máquina.
-- [PyData](https://pydata.org/) [EN-US] -  Fórum para a comunidade internacional de usuários e desenvolvedores de ferramentas de análise de dados para compartilhar idéias e aprender uns com os outros. 
-- [freeCodeCamp](https://medium.freecodecamp.org/) [EN-US] - Aprenda novas habiliades de desenvolvedor.
-- [Vooo](https://www.vooo.pro/insights/category/data-science/) [EN-US] - Notícias e textos sobre Ciência de Dados.
-- [Bitfactor](https://bitfactor.fi/en/blog/) [EN-US] - Pensamentos sobre design, tecnologia e outras coisas muito importantes.
-- [The Fashion Robot](https://thefashionrobot.com/) [EN-US] - Sobre tecnologias inspiradoras na indústria da moda.
-- [OpenMined](https://openmined.org/) [EN-US] - Uma comunidade de código aberto focada na pesquisa, desenvolvimento e elevação de ferramentas para inteligência artificial segura.
-- [Shivam Bansal's](http://www.shivambansal.com/) [EN-US] -  Cientista de Dados e Kaggle Kernels Grandmaster.
-- [Hipsters Ponto Tech](https://hipsters.tech/primeiros-passos-em-data-science-do-excel-e-bi-ao-python-hipsters-134/) [PT-BR] - Podcast onde o pessoal da Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia.
-- [Shane Lynn](https://www.shanelynn.ie/) [EN-US] - Personal Blog.
-- [Martin Fowler](hhttps://martinfowler.com/) [EN-US] - An author, speaker…essentially a loud-mouthed pundit on the topic of software development, primarily for Enterprise Applications. 
+- [O Estatístico](https://oestatistico.com.br/) - Blog com a missão é promover a estatística de um jeito simples, divertido e ao alcance de todos, como você nunca viu antes.
+- [Pós-Graduando](http://posgraduando.com/blog/) - Conteúdo e humor diário para alunos de Pós-Graduação.
+- [Paulo Vasconcellos  -  Cientista de Dados Brasileiro](https://paulovasconcellos.com.br/) - Blog pessoal.
+- [Déborah Mesquita](https://www.deborahmesquita.com/) - Blog pessoal.
+- [Lucas Caton](https://www.lucascaton.com.br/) - Blog pessoal.
+- [Hackernoon](https://hackernoon.com/) - Hacker Noon é tudo quanto é assunto que os hackers precisam ao meio-dia.
+- [Mining the Social Web](https://miningthesocialweb.com/) - Um complementar do livro com o objetivo simples de integrar o mainstream social de mineração da web.
+- [Greg Reda](http://www.gregreda.com/) - Personal Blog.
+- [Kevin Davenport](http://kldavenport.com/) - Personal Blog.
+- [Julia Evans](http://jvns.ca/) - Personal Blog.
+- [Becoming a Data Scientist](http://www.becomingadatascientist.com/) - Documentando o caminho de Analista de Dados SQL buscando um Mestrado em Engenharia para Cientista de Dados.
+- [AllThings Data Science](https://allthingsds.wordpress.com/) - Todas as coisas de Ciência de Dados.
+- [MDM – A Geeks Point Of View](http://www.mdmgeek.com/) - Blog de tecnologia no gerenciamento de dados mestre e cada zumbido em torno dele.
+- [The Open Source Data Science Masters](http://datasciencemasters.org/) - O currículo de código aberto para o aprendizado da Ciência de Dados.
+- [Data Science London](http://datasciencelondon.org/) - A Data Science London é uma organização sem fins lucrativos dedicada à divulgação livre e aberta da Ciência de Dados.
+- [John Myles White](http://www.johnmyleswhite.com/) - Personal Blog.
+- [Open Source Research](https://openresearch.wordpress.com/) - Estudante de doutorado no campo de Pesquisa Operacional em Berkeley. 
+- [Louis Dorard](http://www.louisdorard.com/blog/) - Um cara de tecnologia com uma queda pela web e por dados, grandes e pequenos.
+- [Daniel Forsyth](http://www.danielforsyth.me/) - Personal Blog.
+- [Data Science Weekly](https://www.datascienceweekly.org/) - Um boletim semanal gratuito com notícias curadas, artigos e trabalhos relacionados à Ciência de Dados.
+- [Revolution Analytics](http://blog.revolutionanalytics.com/) - Notícias diárias sobre o uso do código aberto R para análise de big data, modelagem preditiva, ciência de dados e visualização.
+- [R Bloggers](https://www.r-bloggers.com/) - R-Bloggers.com é um agregador de blogs de conteúdo contribuído por blogueiros que escrevem sobre R.
+- [Datascope Analytics](https://datascopeanalytics.com/blog/) - Consultoria e design orientados por dados.
+- [Yet Another Data Blog](http://yet-another-data-blog.blogspot.com.tr/) - Reflexões sobre Inteligência Coletiva, Disputas de Dados, Ciência de Dados, Modelagem Preditiva, Start-ups e um repositório de idéias.
+- [KDNuggets](http://www.kdnuggets.com/) - Líder em Análise de Negócios, Big Data, Mineração de Dados, Ciência de Dados e Aprendizado de Máquina.
+- [Dataists](http://www.dataists.com/) - Mais do que ver o seu modelo não possui erros heteroscedásticos.
+- [Data-Mania](http://www.data-mania.com/blog/) - Personal Blog.
+- [Data-Magnum](https://data-magnum.com/blog/) - Fornece as informações, a educação e a avaliação necessárias para o planejamento e a implementação bem-sucedida de projetos de Big Data.
+- [The MapR Blog](https://www.mapr.com/blog) - Encontre insights, práticas recomendadas e recursos úteis para ajudar você a aproveitar os dados de forma mais eficaz no crescimento de seus negócios.
+- [P-value](http://www.p-value.info/) - Reflexões sobre ciência de dados, aprendizado de máquina e estatísticas.
+- [Deepkapha](http://tarrysingh.com/) - Personal Blog.
+- [The File Drawer](http://chris-said.io/) - Personal Blog.
+- [Hilary Parker](https://hilaryparker.com/) - Personal Blog.
+- [Kenny Bastani](http://www.kennybastani.com/) - Personal Blog.
+- [Adventures in Data Land](http://blog.smola.org) - Personal Blog.
+- [DATA MINERS BLOG](http://blog.data-miners.com/) - Um lugar para ler sobre tópicos de interesse para mineradores de dados, fazer perguntas aos especialistas em mineração de dados em data miners.
+- [DATAVERSITY](http://www.dataversity.net/) - Educação de Dados para Negócios e Profissionais de TI.
+- [Ciência e Dados](http://www.cienciaedados.com/) - O objetivo é conversar sobre a fascinante aventura da Ciência de Dados.
+- [Instituto de Inteligência Artificial Aplicada](https://www.datah.com.br/) - É uma organização sem fins lucrativos onde jovens estudantes recebem educação gratuita sobre inteligência artificial, desenvolvem projetos.
+- [BiaData Bussiness](http://www.bigdatabusiness.com.br/) - Informações sobre Big Data.
+- [Portal Action](http://www.portalaction.com.br/) - O maior portal estatístico do Brasil.
+- [HackerRank](https://www.hackerrank.com/) -  É uma plataforma de contratação de tecnologia que é o padrão para avaliar as habilidades dos desenvolvedores para mais de 1.000 empresas em todo o mundo. 
+- [Revista SQL Magazine](https://www.devmedia.com.br/revista-sql-magazine) - Conteúdo sobre SQL.
+- [ClaoudML](http://www.claoudml.co/) - Recursos gratuitos de ciência de dados e aprendizado de máquina.
+- [PyData](https://pydata.org/) -  Fórum para a comunidade internacional de usuários e desenvolvedores de ferramentas de análise de dados para compartilhar idéias e aprender uns com os outros. 
+- [freeCodeCamp](https://medium.freecodecamp.org/) - Aprenda novas habiliades de desenvolvedor.
+- [Vooo](https://www.vooo.pro/insights/category/data-science/) - Notícias e textos sobre Ciência de Dados.
+- [Bitfactor](https://bitfactor.fi/en/blog/) - Pensamentos sobre design, tecnologia e outras coisas muito importantes.
+- [The Fashion Robot](https://thefashionrobot.com/) - Sobre tecnologias inspiradoras na indústria da moda.
+- [OpenMined](https://openmined.org/) - Uma comunidade de código aberto focada na pesquisa, desenvolvimento e elevação de ferramentas para inteligência artificial segura.
+- [Shivam Bansal's](http://www.shivambansal.com/) -  Cientista de Dados e Kaggle Kernels Grandmaster.
+- [Hipsters Ponto Tech](https://hipsters.tech/primeiros-passos-em-data-science-do-excel-e-bi-ao-python-hipsters-134/) - Podcast onde o pessoal da Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia.
+- [Shane Lynn](https://www.shanelynn.ie/) - Personal Blog.
+- [Martin Fowler](hhttps://martinfowler.com/) - An author, speaker…essentially a loud-mouthed pundit on the topic of software development, primarily for Enterprise Applications. 
 
 [GO TO INDEX](#index)
 
@@ -350,40 +350,40 @@ Below is a list of personal and company websites aimed at Python, Data Science, 
 
 Below is a list of YouTube Channels, Videos I liked and Playlist to study and keep up to date:
 
-- Canal [Google Open Online Education](https://www.youtube.com/channel/UC6fUahKiPDn1-3476TU-ovA) [EN-US] - Cursos on-line oferecidos pelo Google e ferramentas que permitem que você crie seus próprios cursos.
-- Canal [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA) [PT-BR] - Programação para iniciantes com Python.
-- Canal [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg) [PT-BR] - Videoaulas de Programação.
-- Canal [Pycursos](https://www.youtube.com/user/PyCursos) [PT-BR] - Especialistas em Python nas mais diversas áreas, desde Desenvolvimento Web a Ciência de Dados e Big Data.
-- Canal [Sentdex](https://www.youtube.com/user/sentdex) [EN-US] - Tutoriais de programação em Python, indo além do básico, aprenda sobre aprendizado de máquina, finanças, análise de dados, robótica, desenvolvimento web, desenvolvimento de jogos e muito mais.
-- Canal [Professor Mateus Mota](https://www.youtube.com/channel/UC_VRFh8fm4whcLehJkCmcbg) [PT-BR] -  - Tutoriais sobre Python e Ciência de Dados.
-- Canal [PyCon 2019](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ) [EN-US] -  The international community for the Python programming language holds several conferences.
-- Canal [Deep Learning Brasil](https://www.youtube.com/channel/UCWg0CObS-JnEtjW69eGh89A) [PT-BR] - Tem por objetivo fomentar a disseminação do tema no Brasil.
-- Canal [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured) [EN-US] - Aprenda a desenvolver e construir Inteligência Artificial, Jogos, música, chatbots, arte, utilizando Python.
-- Canal [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) [EN-US] - Videos about numbers - it's that simple.
-- Canal [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) [EN-US] - Videos all about computers and computer stuff. Sister channel of Numberphile.
-- Canal [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) [EN-US] - Is some combination of math and entertainment, depending on your disposition.
-- Canal [Eduardo Mendes](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw) [PT-BR] - Um canal sobre Python e desenvolvimento de software de uma maneira geral.
-- Canal [Moacir  Moda](https://www.youtube.com/user/moamoda/featured) [PT-BR] - Moacir Moda, desenvolvedor e fundador da Codevance.
-- Canal [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg) [PT-BR] - Conteúdo sobre carreira na tecnologia e programação.
-- Canal [CodeShow](https://www.youtube.com/channel/UCMre98RDRijOX_fvG1gnsYg) [PT-BR] - Esté é o canal "CodeShow" onde eu, Bruno Rocha, Engenheiro de Software na Red Hat, compartilho experiências com foco no código.
-- Canal [SpaceDevs](https://www.youtube.com/channel/UCedHFDY78egBPEJXL2d8OiQ/featured) [PT-BR] - Aqui na SpaceDevs (Espaço para desenvolvedores) Iremos abrir a janela que dá acesso a todo nosso conteúdo para você.
-- Canal [Ignorância Zero](https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw/featured) [PT-BR] - O canal ignorância zero busca compartilhar gratuitamente conhecimento a todos os que estiveram dispostos a aprender e se desenvolver.
-- Playlist [Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) [PT-BR] - Curso de Python 3 Mundo 1 Fundamentos.
-- Playlist [Canal USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4tvUFZ8tXQDoAkFAASQzOHm) [PT-BR] - Aulas USP | Inteligência Artificial em saúde: o uso de Machine Learning.
-- Playlist [prof. Ronaldo Ramos, do IFET-CE](https://www.youtube.com/playlist?list=PL51430F6C54953B73) [PT-BR] - Lógica de Programação Usando Python Curso Completo.
-- Playlist [Bóson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2) [PT-BR] - Curso de Python Programação.
-- Playlist [Ignorancia_Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) [PT-BR] - Aulas Python.
-- Playlist [Marcos Castro](https://www.youtube.com/playlist?list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893) [PT-BR] - Curso Python 300.
-- Playlist [Zurubabel](https://www.youtube.com/watch?v=plJw9QFew5A&list=PL4OAe-tL47sbzCgtBTthtX50T30CLToEZ) [PT-BR] - Curso de Programação R.
-- Playlist [Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) [EN-US] - Classe de Redes Neurais Universidade de Sherbrooke.
-- Playlist [Tomer Ben David](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY) [EN-US] - Cartilha de Ciência de Dados.
-- Playlist [mrshmt](https://www.youtube.com/playlist?list=PLCA2C1469EA777F9A) [EN-US] - Aprendendo com os Dados.
-- Playlist [Código Logo - Programação e Inteligência Artificial](https://www.youtube.com/watch?v=hQGeRCBTKGs) [EN-US] - Python Natural Language Processing - Intro to spaCy.
-- Playlist [sentdex](https://www.youtube.com/watch?v=7uhMemi2mFc&index=4&list=PLQVvvaa0QuDcg7v9OIyT-DWXX4WOjmJ9I) [EN-US] - Introdução e Fundamentos - Tutorial do Python Reddit API Wrapper (PRAW).
-- Playlist [Google Developers](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) [EN-US] - Machine Learning Recipes with Josh Gordon.
-- Video [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo) [EN-US] - Os objetivos da IA são criar uma máquina que imite a mente humana e, para isso, ela precisa de recursos de aprendizado.
-- Video [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) [EN-US] -  Aprendizagem por Auto-aprendizagem e Aprendizado de Recursos Não Supervisionados.
-- Video [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) [EN-US] - Uma abordagem de aprendizado de máquina inspirada no cérebro.
+- Canal [Google Open Online Education](https://www.youtube.com/channel/UC6fUahKiPDn1-3476TU-ovA) - Cursos on-line oferecidos pelo Google e ferramentas que permitem que você crie seus próprios cursos.
+- Canal [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA) - Programação para iniciantes com Python.
+- Canal [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg) - Videoaulas de Programação.
+- Canal [Pycursos](https://www.youtube.com/user/PyCursos) - Especialistas em Python nas mais diversas áreas, desde Desenvolvimento Web a Ciência de Dados e Big Data.
+- Canal [Sentdex](https://www.youtube.com/user/sentdex) - Tutoriais de programação em Python, indo além do básico, aprenda sobre aprendizado de máquina, finanças, análise de dados, robótica, desenvolvimento web, desenvolvimento de jogos e muito mais.
+- Canal [Professor Mateus Mota](https://www.youtube.com/channel/UC_VRFh8fm4whcLehJkCmcbg) -  - Tutoriais sobre Python e Ciência de Dados.
+- Canal [PyCon 2019](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ) -  The international community for the Python programming language holds several conferences.
+- Canal [Deep Learning Brasil](https://www.youtube.com/channel/UCWg0CObS-JnEtjW69eGh89A) - Tem por objetivo fomentar a disseminação do tema no Brasil.
+- Canal [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/featured) - Aprenda a desenvolver e construir Inteligência Artificial, Jogos, música, chatbots, arte, utilizando Python.
+- Canal [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) - Videos about numbers - it's that simple.
+- Canal [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) - Videos all about computers and computer stuff. Sister channel of Numberphile.
+- Canal [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - Is some combination of math and entertainment, depending on your disposition.
+- Canal [Eduardo Mendes](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw) - Um canal sobre Python e desenvolvimento de software de uma maneira geral.
+- Canal [Moacir  Moda](https://www.youtube.com/user/moamoda/featured) - Moacir Moda, desenvolvedor e fundador da Codevance.
+- Canal [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg) - Conteúdo sobre carreira na tecnologia e programação.
+- Canal [CodeShow](https://www.youtube.com/channel/UCMre98RDRijOX_fvG1gnsYg) - Esté é o canal "CodeShow" onde eu, Bruno Rocha, Engenheiro de Software na Red Hat, compartilho experiências com foco no código.
+- Canal [SpaceDevs](https://www.youtube.com/channel/UCedHFDY78egBPEJXL2d8OiQ/featured) - Aqui na SpaceDevs (Espaço para desenvolvedores) Iremos abrir a janela que dá acesso a todo nosso conteúdo para você.
+- Canal [Ignorância Zero](https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw/featured) - O canal ignorância zero busca compartilhar gratuitamente conhecimento a todos os que estiveram dispostos a aprender e se desenvolver.
+- Playlist [Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Curso de Python 3 Mundo 1 Fundamentos.
+- Playlist [Canal USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4tvUFZ8tXQDoAkFAASQzOHm) - Aulas USP | Inteligência Artificial em saúde: o uso de Machine Learning.
+- Playlist [prof. Ronaldo Ramos, do IFET-CE](https://www.youtube.com/playlist?list=PL51430F6C54953B73) - Lógica de Programação Usando Python Curso Completo.
+- Playlist [Bóson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2) - Curso de Python Programação.
+- Playlist [Ignorancia_Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) - Aulas Python.
+- Playlist [Marcos Castro](https://www.youtube.com/playlist?list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893) - Curso Python 300.
+- Playlist [Zurubabel](https://www.youtube.com/watch?v=plJw9QFew5A&list=PL4OAe-tL47sbzCgtBTthtX50T30CLToEZ) - Curso de Programação R.
+- Playlist [Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) - Classe de Redes Neurais Universidade de Sherbrooke.
+- Playlist [Tomer Ben David](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY) - Cartilha de Ciência de Dados.
+- Playlist [mrshmt](https://www.youtube.com/playlist?list=PLCA2C1469EA777F9A) - Aprendendo com os Dados.
+- Playlist [Código Logo - Programação e Inteligência Artificial](https://www.youtube.com/watch?v=hQGeRCBTKGs) - Python Natural Language Processing - Intro to spaCy.
+- Playlist [sentdex](https://www.youtube.com/watch?v=7uhMemi2mFc&index=4&list=PLQVvvaa0QuDcg7v9OIyT-DWXX4WOjmJ9I) - Introdução e Fundamentos - Tutorial do Python Reddit API Wrapper (PRAW).
+- Playlist [Google Developers](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon.
+- Video [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo) - Os objetivos da IA são criar uma máquina que imite a mente humana e, para isso, ela precisa de recursos de aprendizado.
+- Video [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) -  Aprendizagem por Auto-aprendizagem e Aprendizado de Recursos Não Supervisionados.
+- Video [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) - Uma abordagem de aprendizado de máquina inspirada no cérebro.
 
 [GO TO INDEX](#index)
 
@@ -393,28 +393,28 @@ Below is a list of YouTube Channels, Videos I liked and Playlist to study and ke
 
 Below is a list of favorite sites to stay informed:
 
-- [TECNOLOGIA | EXAME](https://exame.abril.com.br/tecnologia/) [PT-BR] - Informações sobre tecnologia, internet, ciências, redes sociais, gadgets e empresas que moldam esse mercado.
-- [Pplware](https://pplware.sapo.pt/) [PT-BR] - Tudo sobre tecnologia, software, peopleware, informatica, tutoriais, truques, dicas, windows, mac, linux e internet em portugues.
-- [Tecnoblog](https://tecnoblog.net/) [PT-BR] - Encontre notícias, dicas e tutoriais e fica por dentro dos assuntos .
-- [Becode](https://becode.com.br/) [PT-BR] - Diversos materiais gratuitos, ebooks, posts, quizes, além de recomendações para os melhores cursos online da web. 
-- [O Futuro das Coisas](https://ofuturodascoisas.com/) [PT-BR] - O futuro visível para todos, Inteligência Artificial, Robotics, inovações e novas tecnologias médicas.
-- [Oficina Antivigilância](https://antivigilancia.org/pt/inicial-pt/) [PT-BR] - Estudo de Princeton expõe vigilância descontrolada dos trackers na Web.
-- [PCWorld](http://pcworld.com.br/) [EN-US] - Consultor de tecnologia, com análises e guia de produtos, testes, reviews, dicas e download. 
-- [Portal GSTI](https://www.portalgsti.com.br/) [PT-BR] - Conteúdo, área para tirar dúvidas, informações sobre vagas de trabalho, concursos e certificações. 
-- [The Next Web](https://thenextweb.com/) [EN-US] - Perspectivas originais e orgulhosamente opinativas sobre histórias notáveis para a Geração T.
-- [Intel IT Center](https://www.intel.la/content/www/xl/es/it-management/intel-it/it-managers.html) [EN-US] - Recursos para Líderes de TI.
-- [indy100: discover](https://www.indy100.com/discover) [EN-US] - Notícias diversas sobre tudo.
-- [Skynet Today](https://www.skynettoday.com/) [EN-US] - Cobertura acessível e informada do mais recente hype AI e Pânico.
-- [Hacker News Bulletin](http://www.hackersnewsbulletin.com/) [EN-US] - Descubra as últimas tendências, novidades interessantes e dicas úteis sobre hackers, hackers, segurança cibernética, tecnologia e anônimos em todo o mundo.
-- [Datatau](http://www.datatau.com/news) [EN-US] - Como Hacker News, mas para dados.
-- [Fossbytes](https://fossbytes.com/) [EN-US] -  Fonte líder de notícias sobre tecnologia, com foco em lançamentos de distro Linux, segurança e notícias sobre hackers, tutoriais, dicas e truques, VPNs e muito mais.
-- [ICML](http://icml.cc/2015/) [EN-US] - International Conference on Machine Learning
-- [EPJ Data Science](http://epjdatascience.springeropen.com/) [EN-US] - Plataforma de publicação para abordar essa evolução, reunindo todas as disciplinas acadêmicas relacionadas a ciências.
-- [Journal of Data Science](http://www.jds-online.com/) [EN-US] - Uma revista internacional dedicada a aplicações de métodos estatísticos em geral.
-- [Big Data Research](https://www.journals.elsevier.com/big-data-research) [EN-US] - Tem como objetivo promover e comunicar os avanços na pesquisa de big data , fornecendo um fórum rápido e de alta qualidade para pesquisadores, profissionais e decisores políticos das muitas comunidades diferentes trabalhando com este tópico.
-- [Journal of Big Data](http://journalofbigdata.springeropen.com/) [EN-US] - Publica trabalhos acadêmicos de alta qualidade, metodologias e estudos de caso abrangendo uma ampla gama de tópicos, desde análise de big data a computação intensiva em dados e todas as aplicações de pesquisa em big data.
-- [Big Data & Society](http://journals.sagepub.com/home/bds) [EN-US] - É um periódico acadêmico revisado por pares que publica trabalhos interdisciplinares principalmente em ciências sociais, humanidades e computação e suas interseções com as artes e ciências naturais sobre as implicações do Big Data para as sociedades.
-- [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj) [EN-US] - Permite que você pesquise, navegue e cite com facilidade os artigos mais recentes publicados por sociedades acadêmicas no Japão e você pode acessar documentos usando a referência de referência ou a ligação citada.
+- [TECNOLOGIA | EXAME](https://exame.abril.com.br/tecnologia/) - Informações sobre tecnologia, internet, ciências, redes sociais, gadgets e empresas que moldam esse mercado.
+- [Pplware](https://pplware.sapo.pt/) - Tudo sobre tecnologia, software, peopleware, informatica, tutoriais, truques, dicas, windows, mac, linux e internet em portugues.
+- [Tecnoblog](https://tecnoblog.net/) - Encontre notícias, dicas e tutoriais e fica por dentro dos assuntos .
+- [Becode](https://becode.com.br/) - Diversos materiais gratuitos, ebooks, posts, quizes, além de recomendações para os melhores cursos online da web. 
+- [O Futuro das Coisas](https://ofuturodascoisas.com/) - O futuro visível para todos, Inteligência Artificial, Robotics, inovações e novas tecnologias médicas.
+- [Oficina Antivigilância](https://antivigilancia.org/pt/inicial-pt/) - Estudo de Princeton expõe vigilância descontrolada dos trackers na Web.
+- [PCWorld](http://pcworld.com.br/) - Consultor de tecnologia, com análises e guia de produtos, testes, reviews, dicas e download. 
+- [Portal GSTI](https://www.portalgsti.com.br/) - Conteúdo, área para tirar dúvidas, informações sobre vagas de trabalho, concursos e certificações. 
+- [The Next Web](https://thenextweb.com/) - Perspectivas originais e orgulhosamente opinativas sobre histórias notáveis para a Geração T.
+- [Intel IT Center](https://www.intel.la/content/www/xl/es/it-management/intel-it/it-managers.html) - Recursos para Líderes de TI.
+- [indy100: discover](https://www.indy100.com/discover) - Notícias diversas sobre tudo.
+- [Skynet Today](https://www.skynettoday.com/) - Cobertura acessível e informada do mais recente hype AI e Pânico.
+- [Hacker News Bulletin](http://www.hackersnewsbulletin.com/) - Descubra as últimas tendências, novidades interessantes e dicas úteis sobre hackers, hackers, segurança cibernética, tecnologia e anônimos em todo o mundo.
+- [Datatau](http://www.datatau.com/news) - Como Hacker News, mas para dados.
+- [Fossbytes](https://fossbytes.com/) -  Fonte líder de notícias sobre tecnologia, com foco em lançamentos de distro Linux, segurança e notícias sobre hackers, tutoriais, dicas e truques, VPNs e muito mais.
+- [ICML](http://icml.cc/2015/) - International Conference on Machine Learning
+- [EPJ Data Science](http://epjdatascience.springeropen.com/) - Plataforma de publicação para abordar essa evolução, reunindo todas as disciplinas acadêmicas relacionadas a ciências.
+- [Journal of Data Science](http://www.jds-online.com/) - Uma revista internacional dedicada a aplicações de métodos estatísticos em geral.
+- [Big Data Research](https://www.journals.elsevier.com/big-data-research) - Tem como objetivo promover e comunicar os avanços na pesquisa de big data , fornecendo um fórum rápido e de alta qualidade para pesquisadores, profissionais e decisores políticos das muitas comunidades diferentes trabalhando com este tópico.
+- [Journal of Big Data](http://journalofbigdata.springeropen.com/) - Publica trabalhos acadêmicos de alta qualidade, metodologias e estudos de caso abrangendo uma ampla gama de tópicos, desde análise de big data a computação intensiva em dados e todas as aplicações de pesquisa em big data.
+- [Big Data & Society](http://journals.sagepub.com/home/bds) - É um periódico acadêmico revisado por pares que publica trabalhos interdisciplinares principalmente em ciências sociais, humanidades e computação e suas interseções com as artes e ciências naturais sobre as implicações do Big Data para as sociedades.
+- [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj) - Permite que você pesquise, navegue e cite com facilidade os artigos mais recentes publicados por sociedades acadêmicas no Japão e você pode acessar documentos usando a referência de referência ou a ligação citada.
 
 [GO TO INDEX](#index)
 
@@ -424,15 +424,15 @@ Below is a list of favorite sites to stay informed:
 
 [DESCRIBE MEDIUM HERE]
 
-- [Topic Modeling and Latent Dirichlet Allocation (LDA) in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) [EN-US] - Topic modeling is a type of statistical modeling for discovering the abstract “topics” that occur in a collection of documents.
-- [Modelagem de Tópicos e Alocação Latente de Dirichlet (LDA) em Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) [PT-BR] - DESCRIPTION
-- [Hackernoon](https://hackernoon.com/) [EN-US] - 
+- [Topic Modeling and Latent Dirichlet Allocation (LDA) in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) - Topic modeling is a type of statistical modeling for discovering the abstract “topics” that occur in a collection of documents.
+- [Modelagem de Tópicos e Alocação Latente de Dirichlet (LDA) em Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) - DESCRIPTION
+- [Hackernoon](https://hackernoon.com/) - 
 Hacker Noon Rips Out Medium’s Software, Replaces it With Their Own.
-- [Better Programming](https://medium.com/better-programming) [EN-US] - Advice for programmers.
-- [The Startup](https://medium.com/swlh) [PT-BR] - Medium's largest active publication, followed by +598K people. Follow to join our community.
-- [Concretebr](https://medium.com/concretebr) [PT-BR] - Nós desenvolvemos produtos digitais com inovação, agilidade e excelentes práticas, para queo mercado brasileiro e latino-americano.
-- [freecodecamp](https://www.freecodecamp.org/news/) [EN-US] - Learn to code with free online courses, programming projects, and interview preparation for developer jobs.
-- [geeksforgeeks](https://www.geeksforgeeks.org/) [EN-US] - A Computer Science portal for geeks.
+- [Better Programming](https://medium.com/better-programming) - Advice for programmers.
+- [The Startup](https://medium.com/swlh) - Medium's largest active publication, followed by +598K people. Follow to join our community.
+- [Concretebr](https://medium.com/concretebr) - Nós desenvolvemos produtos digitais com inovação, agilidade e excelentes práticas, para queo mercado brasileiro e latino-americano.
+- [freecodecamp](https://www.freecodecamp.org/news/) - Learn to code with free online courses, programming projects, and interview preparation for developer jobs.
+- [geeksforgeeks](https://www.geeksforgeeks.org/) - A Computer Science portal for geeks.
 
 [GO TO INDEX](#index)
 
@@ -442,22 +442,22 @@ Hacker Noon Rips Out Medium’s Software, Replaces it With Their Own.
 
 Below is a list of favorite sites that have a variety of topics related to computing in general:
 
-- [The ACM Digital Library](https://dl.acm.org/) [EN-US] -  É uma plataforma de pesquisa, descoberta e rede que contém a coleção de texto completo de todas as publicações da ACM, incluindo revistas, anais de congressos, revistas técnicas, boletins informativos e livros.
-- [Communications Of The ACM](https://cacm.acm.org/) [EN-US] - São as principais publicações impressas e on-line para os campos de computação e tecnologia da informação.
-- [LNCC - Laboratório Nacional de Computação Científica](http://www.lncc.br/estrutura/default.php) [PT-BR] - O Laboratório Nacional de Computação Científica é uma instituição brasileira de pesquisa científica e desenvolvimento tecnológico do Ministério da Ciência, Tecnologia e Inovação e Comunicações, especializada em computação científica. 
-- [Intel Software Developer Zone](https://software.intel.com/pt-br) [PT-BR] - Sua fonte oficial para desenvolvimento com hardware e software Intel®.
-- [GUJ](http://www.guj.com.br/) [PT-BR] - É o maior fórum de desenvolvimento do Brasil com mais de 1 milhão de mensagens. Participe agora no facebook com notícias e links.
-- [DevMedia](https://www.devmedia.com.br/) [PT-BR] - São milhares de Cursos, DevCasts, Rodas de Códigos, Artigos, MarketPlace e muito mais.
-- [iMasters](https://imasters.com.br/) [PT-BR] - Comunidade de profissionais, estudantes e mestres em tecnologias e ferramentas voltadas para o desenvolvimento web.
-- [SEI - Instituto de Engenharia de Software](https://www.sei.cmu.edu/) [EN-US] - Realiza pesquisas em engenharia de software, engenharia de sistemas, segurança cibernética e muitas outras áreas da computação, trabalhando para introduzir inovações do setor privado no governo.
-- [ACM - Associação para Computação de Máquinas](https://www.acm.org/) [EN-US] - Reúne educadores, pesquisadores e profissionais de computação para inspirar o diálogo, compartilhar recursos e abordar os desafios do campo.
-- [Biblioteca Mundial da Ciência](https://www.nature.com/wls) [EN-US] - Biblioteca on-line oferece conteúdo educacional de qualidade em pequenos eBooks e artigos, servindo como uma missão para equalizar o acesso a recursos de alta qualidade para educação científica para todas as comunidades em todo o mundo. 
-- [SBMAC - Sociedade de Matemática Aplicada e Computacional](http://www.sbmac.org.br/) [PT-BR] - Desenvolver as aplicações da Matemática nas áreas científicas, tecnológicas e industriais.
-- [SBC - Sociedade Brasileira de Computação](http://www.sbc.org.br/) [PT-BR] - Sociedade científica que reúne estudantes, professores e profissionais da Computação e Informática de todo o Brasil. O principal objetivo desta instituição é incentivar a pesquisa e o ensino em Computação.
-- [Wikiversidade](https://pt.wikiversity.org/wiki/P%C3%A1gina_principal) [PT-BR] - É uma wiki para organização de grupos de estudo ou pesquisa em todos os níveis e suas informações, como anotações, bibliografias, discussões e informações práticas.
-- [DevBrasil](http://devbrasil.net/) [PT-BR] - A maior rede social para desenvolvedores de software no Brasil aprendendo, compartilhando e conquistando novas oportunidades.
-- [Computing Research Repository](https://arxiv.org/corr/home) [EN-US] - Repositório de Pesquisa em Computação. Permite que os pesquisadores pesquisem, naveguem e baixem documentos através de seu repositório online. 
-- [Department of Computer Science](https://www.cs.vu.nl/~ast/) [EN-US] - Andrew S. Tanenbaum's Home Page.
+- [The ACM Digital Library](https://dl.acm.org/) -  É uma plataforma de pesquisa, descoberta e rede que contém a coleção de texto completo de todas as publicações da ACM, incluindo revistas, anais de congressos, revistas técnicas, boletins informativos e livros.
+- [Communications Of The ACM](https://cacm.acm.org/) - São as principais publicações impressas e on-line para os campos de computação e tecnologia da informação.
+- [LNCC - Laboratório Nacional de Computação Científica](http://www.lncc.br/estrutura/default.php) - O Laboratório Nacional de Computação Científica é uma instituição brasileira de pesquisa científica e desenvolvimento tecnológico do Ministério da Ciência, Tecnologia e Inovação e Comunicações, especializada em computação científica. 
+- [Intel Software Developer Zone](https://software.intel.com/pt-br) - Sua fonte oficial para desenvolvimento com hardware e software Intel®.
+- [GUJ](http://www.guj.com.br/) - É o maior fórum de desenvolvimento do Brasil com mais de 1 milhão de mensagens. Participe agora no facebook com notícias e links.
+- [DevMedia](https://www.devmedia.com.br/) - São milhares de Cursos, DevCasts, Rodas de Códigos, Artigos, MarketPlace e muito mais.
+- [iMasters](https://imasters.com.br/) - Comunidade de profissionais, estudantes e mestres em tecnologias e ferramentas voltadas para o desenvolvimento web.
+- [SEI - Instituto de Engenharia de Software](https://www.sei.cmu.edu/) - Realiza pesquisas em engenharia de software, engenharia de sistemas, segurança cibernética e muitas outras áreas da computação, trabalhando para introduzir inovações do setor privado no governo.
+- [ACM - Associação para Computação de Máquinas](https://www.acm.org/) - Reúne educadores, pesquisadores e profissionais de computação para inspirar o diálogo, compartilhar recursos e abordar os desafios do campo.
+- [Biblioteca Mundial da Ciência](https://www.nature.com/wls) - Biblioteca on-line oferece conteúdo educacional de qualidade em pequenos eBooks e artigos, servindo como uma missão para equalizar o acesso a recursos de alta qualidade para educação científica para todas as comunidades em todo o mundo. 
+- [SBMAC - Sociedade de Matemática Aplicada e Computacional](http://www.sbmac.org.br/) - Desenvolver as aplicações da Matemática nas áreas científicas, tecnológicas e industriais.
+- [SBC - Sociedade Brasileira de Computação](http://www.sbc.org.br/) - Sociedade científica que reúne estudantes, professores e profissionais da Computação e Informática de todo o Brasil. O principal objetivo desta instituição é incentivar a pesquisa e o ensino em Computação.
+- [Wikiversidade](https://pt.wikiversity.org/wiki/P%C3%A1gina_principal) - É uma wiki para organização de grupos de estudo ou pesquisa em todos os níveis e suas informações, como anotações, bibliografias, discussões e informações práticas.
+- [DevBrasil](http://devbrasil.net/) - A maior rede social para desenvolvedores de software no Brasil aprendendo, compartilhando e conquistando novas oportunidades.
+- [Computing Research Repository](https://arxiv.org/corr/home) - Repositório de Pesquisa em Computação. Permite que os pesquisadores pesquisem, naveguem e baixem documentos através de seu repositório online. 
+- [Department of Computer Science](https://www.cs.vu.nl/~ast/) - Andrew S. Tanenbaum's Home Page.
 
 [GO TO INDEX](#index)
 
@@ -483,26 +483,26 @@ Below is a list of favorite sites that have a variety of topics related to compu
 
 Below is a list of sites that have an introduction to what Python is:
 
-- [An Introduction to Asynchronous Programming in Python](https://medium.com/velotio-perspectives/an-introduction-to-asynchronous-programming-in-python-af0189a88bbb) [EN-US]
-- [AsyncIO for the Working Python Developer](https://yeray.dev/python/asyncio/asyncio-for-the-working-python-developer) [EN-US]
-- [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) [EN-US]
-- [Beginner's guide - Object Oriented Programming](https://dev.to/charanrajgolla/beginners-guide---object-oriented-programming) [EN-US]
-- [Python Docstrings](https://www.geeksforgeeks.org/python-docstrings/) [EN-US]
-- [Python 3 e Type Hints](https://medium.com/@diogommartins/python-3-e-type-hints-40e80a9e8214) [PT-BR]
-- [Python Type Checking (Guide)](https://realpython.com/python-type-checking/) [EN-US]
-- [Real Python Tutorials](https://realpython.com/) [EN-US]
-- [class method vs static method in Python](https://www.geeksforgeeks.org/class-method-vs-static-method-python/) [EN-US]
-- [Transforms and Transitions in Python](https://www.renpy.org/doc/html/trans_trans_python.html) [EN-US]
+- [An Introduction to Asynchronous Programming in Python](https://medium.com/velotio-perspectives/an-introduction-to-asynchronous-programming-in-python-af0189a88bbb)
+- [AsyncIO for the Working Python Developer](https://yeray.dev/python/asyncio/asyncio-for-the-working-python-developer)
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
+- [Beginner's guide - Object Oriented Programming](https://dev.to/charanrajgolla/beginners-guide---object-oriented-programming)
+- [Python Docstrings](https://www.geeksforgeeks.org/python-docstrings/)
+- [Python 3 e Type Hints](https://medium.com/@diogommartins/python-3-e-type-hints-40e80a9e8214)
+- [Python Type Checking (Guide)](https://realpython.com/python-type-checking/)
+- [Real Python Tutorials](https://realpython.com/)
+- [class method vs static method in Python](https://www.geeksforgeeks.org/class-method-vs-static-method-python/)
+- [Transforms and Transitions in Python](https://www.renpy.org/doc/html/trans_trans_python.html)
 - [Modules](https://docs.python.org/3/tutorial/modules.html#tut-packages)
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) [EN-US]
-- [python-is-cool](https://github.com/chiphuyen/python-is-cool) [EN-US]
-- [Using Python's Type Annotations](https://dev.to/dstarner/using-pythons-type-annotations-4cfe) [EN-US]
-- [Documentação Python 3.8.2](https://docs.python.org/pt-br/3/) [PT-BR]
-- [Python codecademy](https://www.codecademy.com/catalog/language/python) [EN-US]
-- [Python Tutorial](https://www.w3schools.com/python/) [EN-US]
-- [Dive Into Python 3](https://diveintopython3.problemsolving.io/) [EN-US]
-- [Python Brasil](https://python.org.br/) [PT-BR]
-- [Python](https://www.python.org/) [EN-US]
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+- [python-is-cool](https://github.com/chiphuyen/python-is-cool)
+- [Using Python's Type Annotations](https://dev.to/dstarner/using-pythons-type-annotations-4cfe)
+- [Documentação Python 3.8.2](https://docs.python.org/pt-br/3/)
+- [Python codecademy](https://www.codecademy.com/catalog/language/python)
+- [Python Tutorial](https://www.w3schools.com/python/)
+- [Dive Into Python 3](https://diveintopython3.problemsolving.io/)
+- [Python Brasil](https://python.org.br/)
+- [Python](https://www.python.org/)
 
 [GO TO INDEX](#index)
 
@@ -512,10 +512,10 @@ Below is a list of sites that have an introduction to what Python is:
 
 Style Guide for Python Code:
 
-- [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) [EN-US] - This document gives coding conventions for the Python code comprising the standard library in the main Python distribution.
-- [PEP 513 -- A Platform Tag for Portable Linux Built Distributions](https://www.python.org/dev/peps/pep-0513/) [EN-US] - This PEP proposes the creation of a new platform tag for Python package built distributions, such as wheels, called *manylinux1_{x86_64,i686}* with external dependencies limited to a standardized, restricted subset of the Linux kernel and core userspace ABI.
-- [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/) [EN-US] - This PEP documents the semantics and conventions associated with Python docstrings.
-- [PEP 465 -- A dedicated infix operator for matrix multiplication]([LINK](https://www.python.org/dev/peps/pep-0465/)) [EN-US] - This PEP proposes a new binary operator to be used for matrix multiplication, called @. (Mnemonic: @ is * for mATrices.)
+- [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) - This document gives coding conventions for the Python code comprising the standard library in the main Python distribution.
+- [PEP 513 -- A Platform Tag for Portable Linux Built Distributions](https://www.python.org/dev/peps/pep-0513/) - This PEP proposes the creation of a new platform tag for Python package built distributions, such as wheels, called *manylinux1_{x86_64,i686}* with external dependencies limited to a standardized, restricted subset of the Linux kernel and core userspace ABI.
+- [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/) - This PEP documents the semantics and conventions associated with Python docstrings.
+- [PEP 465 -- A dedicated infix operator for matrix multiplication]([LINK](https://www.python.org/dev/peps/pep-0465/)) - This PEP proposes a new binary operator to be used for matrix multiplication, called @. (Mnemonic: @ is * for mATrices.)
 
 [GO TO INDEX](#index)
 
@@ -525,7 +525,7 @@ Style Guide for Python Code:
 
 Below is a list of sites that have an introduction to what HTTP Requests is:
 
-- [Difference Between Those HTTP Requests](https://dev.to/flippedcoding/difference-between-those-http-requests-2m13) [EN-US]
+- [Difference Between Those HTTP Requests](https://dev.to/flippedcoding/difference-between-those-http-requests-2m13)
 
 [GO TO INDEX](#index)
 
@@ -544,7 +544,7 @@ Below is a list of sites that have an introduction to what HTTP Requests is:
 
 [DESCRIBE HTTP HERE]
 
-- [Guia de início rápido](https://requests.readthedocs.io/pt_BR/latest/user/quickstart.html) [PT-BR] - Esta página dá uma boa introdução em como começar a usar Requests.
+- [Guia de início rápido](https://requests.readthedocs.io/pt_BR/latest/user/quickstart.html) - Esta página dá uma boa introdução em como começar a usar Requests.
 
 [GO TO INDEX](#index)
 
@@ -607,9 +607,9 @@ Existe uma certa confusão quanto aos termos REST e RESTful. Entretanto, ambos r
 [DESCRIBE DEVELOPMENT HERE]
 
 - [gitignore](https://github.com/github/gitignore) - A collection of .gitignore templates.
-- [Filosofias de Projeto](https://docs.djangoproject.com/pt-br/3.0/misc/design-philosophies/#dry) [PT-BR] - Este documento explica algumas filosofias que os desenvolvedores do Django tem usado ao criar o framework. Seu objetivo é de explicar o passado e guiar o futuro.
-- [Refactoring.Guru](https://refactoring.guru/) [EN-US] - Makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
-- [SourceMaking](https://sourcemaking.com/) [EN-US] - I will tell you a lot of stories about good software architecture and teach you how to create it with design patterns. I will guide you through anti-patterns, common pitfalls and mistakes that people make when they plan, create, and manage software projects. In the end, I will teach you how to smell a bad code and improve it with refactoring.
+- [Filosofias de Projeto](https://docs.djangoproject.com/pt-br/3.0/misc/design-philosophies/#dry) - Este documento explica algumas filosofias que os desenvolvedores do Django tem usado ao criar o framework. Seu objetivo é de explicar o passado e guiar o futuro.
+- [Refactoring.Guru](https://refactoring.guru/) - Makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
+- [SourceMaking](https://sourcemaking.com/) - I will tell you a lot of stories about good software architecture and teach you how to create it with design patterns. I will guide you through anti-patterns, common pitfalls and mistakes that people make when they plan, create, and manage software projects. In the end, I will teach you how to smell a bad code and improve it with refactoring.
 
 [GO TO INDEX](#index)
 
@@ -619,7 +619,7 @@ Existe uma certa confusão quanto aos termos REST e RESTful. Entretanto, ambos r
 
 [DESCRIBE DEVELOPMENT ENVIRONMENT HERE]
 
-- [Criando ambientes virtuais para projetos Python com o Virtualenv](https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv/) [PT-BR] - Um ambiente virtual empacota todas as dependências que um projeto precisa e armazena em um diretório, fazendo com que nenhum pacote seja instalado diretamente no sistema operacional.
+- [Criando ambientes virtuais para projetos Python com o Virtualenv](https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv/) - Um ambiente virtual empacota todas as dependências que um projeto precisa e armazena em um diretório, fazendo com que nenhum pacote seja instalado diretamente no sistema operacional.
 
 [GO TO INDEX](#index)
 
@@ -629,12 +629,12 @@ Existe uma certa confusão quanto aos termos REST e RESTful. Entretanto, ambos r
 
 Agile software development comprises various approaches to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s). [wikipedia](https://en.wikipedia.org/wiki/Agile_software_development).
 
-- [Dont Repeat Yourself] [EN-US] - (http://wiki.c2.com/?DontRepeatYourself) - Duplication (inadvertent or purposeful duplication) can lead to maintenance nightmares, poor factoring, and logical contradictions.
-- [eXtreme programming]([LINK](https://en.wikipedia.org/wiki/Extreme_programming)) [EN-US] - Extreme programming, or simply XP, is considered an agile methodology as it fits well with small and medium sized software developers with vague and constantly changing requirements.
-- [Test-driven development]((https://en.wikipedia.org/wiki/Test-driven_development)) [EN-US] -  Is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the code is improved so that the tests pass.
-- [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) [EN-US] - Is an agile process framework for managing complex knowledge work, with an initial emphasis on software development, although it has been used in other fields and is slowly starting to be explored for other complex work, research and advanced technologies.
-- [Kanban](https://en.wikipedia.org/wiki/Kanban) [EN-US] - Is a scheduling system for lean manufacturing and just-in-time manufacturing (JIT).
-- [Code Style](https://docs.python-guide.org/writing/style/) [EN-US] - One reason for the high readability of Python code is its relatively complete set of Code Style guidelines and “Pythonic” idioms.
+- [Dont Repeat Yourself] - (http://wiki.c2.com/?DontRepeatYourself) - Duplication (inadvertent or purposeful duplication) can lead to maintenance nightmares, poor factoring, and logical contradictions.
+- [eXtreme programming]([LINK](https://en.wikipedia.org/wiki/Extreme_programming)) - Extreme programming, or simply XP, is considered an agile methodology as it fits well with small and medium sized software developers with vague and constantly changing requirements.
+- [Test-driven development]((https://en.wikipedia.org/wiki/Test-driven_development)) -  Is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the code is improved so that the tests pass.
+- [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) - Is an agile process framework for managing complex knowledge work, with an initial emphasis on software development, although it has been used in other fields and is slowly starting to be explored for other complex work, research and advanced technologies.
+- [Kanban](https://en.wikipedia.org/wiki/Kanban) - Is a scheduling system for lean manufacturing and just-in-time manufacturing (JIT).
+- [Code Style](https://docs.python-guide.org/writing/style/) - One reason for the high readability of Python code is its relatively complete set of Code Style guidelines and “Pythonic” idioms.
 
 [GO TO INDEX](#index)
 
@@ -646,14 +646,14 @@ Agile software development comprises various approaches to software development 
 
 - [Testes com python: como fazer uma refatoração segura](https://pt.slideshare.net/valbertovc/testes-com-python-como-fazer-uma-refatorao-segura) - Testes com python: como fazer uma refatoração segura.
 - [Introdução à Refatoração](https://www.devmedia.com.br/introducao-a-refatoracao/21377) - Introdução à Refatoração.
-- [Como refatorar código em Python - Guia do Iniciante](http://pt.abcarticulos.info/article/como-refatorar-cdigo-em-python-guia-do-iniciante) [PT-BR] - Refatoração é apenas uma maneira elegante para descrever um processo em que você re-escrever partes do código para torná-lo melhor.
-- [Refatoração: Conceitos e Benefícios](https://medium.com/@tdsmarques/refatora%C3%A7%C3%A3o-conceitos-e-benef%C3%ADcios-f45d7bb977c8) [PT-BR] - Refatoração é o processo de alterar o código fonte de uma maneira que não altere seu comportamento externo e ainda melhore a sua estrutura interna.
-- [Guia definitivo para a refatoração.](https://medium.com/studio-oceano/guia-definitivo-para-a-refatora%C3%A7%C3%A3o-568cc6625eaf) [PT-BR] - Este post possui um conteúdo extenso, é uma tradução e adaptação da sessão de refactoring do site: [Refactoring.Guru](https://refactoring.guru).
-- [Refactoring Python Applications for Simplicity](https://realpython.com/python-refactoring/) [EN-US] - If you can write and maintain clean, simple Python code, then it’ll save you lots of time in the long term.
-- [UML](https://sourcemaking.com/uml) [EN-US] - Most books about UML describe it almost in its entirety. Inevitably you’re left with only a superficial knowledge of the range of UML elements, without a deep and intuitive understanding of how to apply UML as a whole to real world design problems.
-- [Refactoring](https://sourcemaking.com/refactoring) [EN-US] - Bloaters are code, methods and classes that have increased to such gargantuan proportions that they are hard to work with.
-- [AntiPatterns](https://sourcemaking.com/antipatterns) [EN-US] - AntiPatterns, like their design pattern counterparts, define an industry vocabulary for the common defective processes and implementations within organizations. 
-- [Design Patterns](https://sourcemaking.com/design_patterns) [EN-US] - In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design.
+- [Como refatorar código em Python - Guia do Iniciante](http://pt.abcarticulos.info/article/como-refatorar-cdigo-em-python-guia-do-iniciante) - Refatoração é apenas uma maneira elegante para descrever um processo em que você re-escrever partes do código para torná-lo melhor.
+- [Refatoração: Conceitos e Benefícios](https://medium.com/@tdsmarques/refatora%C3%A7%C3%A3o-conceitos-e-benef%C3%ADcios-f45d7bb977c8) - Refatoração é o processo de alterar o código fonte de uma maneira que não altere seu comportamento externo e ainda melhore a sua estrutura interna.
+- [Guia definitivo para a refatoração.](https://medium.com/studio-oceano/guia-definitivo-para-a-refatora%C3%A7%C3%A3o-568cc6625eaf) - Este post possui um conteúdo extenso, é uma tradução e adaptação da sessão de refactoring do site: [Refactoring.Guru](https://refactoring.guru).
+- [Refactoring Python Applications for Simplicity](https://realpython.com/python-refactoring/) - If you can write and maintain clean, simple Python code, then it’ll save you lots of time in the long term.
+- [UML](https://sourcemaking.com/uml) - Most books about UML describe it almost in its entirety. Inevitably you’re left with only a superficial knowledge of the range of UML elements, without a deep and intuitive understanding of how to apply UML as a whole to real world design problems.
+- [Refactoring](https://sourcemaking.com/refactoring) - Bloaters are code, methods and classes that have increased to such gargantuan proportions that they are hard to work with.
+- [AntiPatterns](https://sourcemaking.com/antipatterns) - AntiPatterns, like their design pattern counterparts, define an industry vocabulary for the common defective processes and implementations within organizations. 
+- [Design Patterns](https://sourcemaking.com/design_patterns) - In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design.
 
 [GO TO INDEX](#index)
 
@@ -699,8 +699,8 @@ Below is a list of tools that make the job easier:
 - [draw.io](https://www.draw.io/) - É um site de diagramação on-line  com o exemplo GraphEditor do mxGraph como a base da parte da aplicação.
 - [RED HAT - OpenShift](https://www.openshift.com/) - Implantação e gerenciamento de softwares baseados em container. Ele é uma distribuição suportada do Kubernetes usando Docker e ferramentas DevOps para desenvolvimento acelerado de aplicações.
 - [AdelaiDet](https://github.com/aim-uofa/AdelaiDet) - AdelaiDet is an open source toolbox for multiple instance-level recognition tasks on top of Detectron2. All instance-level recognition works from our group are open-sourced here.
-- [Spinnaker](https://www.spinnaker.io/concepts/) [EN-US] - Spinnaker is an open-source, multi-cloud continuous delivery platform that helps you release software changes with high velocity and confidence.
-- [PyCharm](https://www.jetbrains.com/pycharm/) [EN-US] - The Python IDE for Professional Developers.
+- [Spinnaker](https://www.spinnaker.io/concepts/) - Spinnaker is an open-source, multi-cloud continuous delivery platform that helps you release software changes with high velocity and confidence.
+- [PyCharm](https://www.jetbrains.com/pycharm/) - The Python IDE for Professional Developers.
 
 [GO TO INDEX](#index)
 
@@ -733,10 +733,10 @@ Below is a list of tools that make the job easier:
 - [bottery](https://github.com/rougeth/bottery) - A framework for building bots
 - [JustPy](https://github.com/elimintz/justpy) - JustPy is an object-oriented, component based, high-level Python Web Framework that requires no front-end programming.
 - [Ray](https://github.com/ray-project/ray) - Ray is a fast and simple framework for building and running distributed applications.
-- [Airtest](https://github.com/AirtestProject/Airtest) [EN-US] - Cross-Platform UI Automation Framework for Games and Apps.
-- [Sonic](https://github.com/valeriansaliou/sonic) [EN-US] - Sonic is a fast, lightweight and schema-less search backend. It ingests search texts and identifier tuples that can then be queried against in a microsecond's time.
-- [Masonite](https://github.com/MasoniteFramework/masonite) [EN-US] - The modern and developer centric Python web framework that strives for an actual batteries included developer tool with a lot of out of the box functionality with an extremely extendable architecture.
-- [Eve](https://github.com/pyeve/eve) [EN-US] - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services. Eve offers native support for MongoDB, and SQL backends via community extensions.
+- [Airtest](https://github.com/AirtestProject/Airtest) - Cross-Platform UI Automation Framework for Games and Apps.
+- [Sonic](https://github.com/valeriansaliou/sonic) - Sonic is a fast, lightweight and schema-less search backend. It ingests search texts and identifier tuples that can then be queried against in a microsecond's time.
+- [Masonite](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework that strives for an actual batteries included developer tool with a lot of out of the box functionality with an extremely extendable architecture.
+- [Eve](https://github.com/pyeve/eve) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services. Eve offers native support for MongoDB, and SQL backends via community extensions.
 
 [GO TO INDEX](#index)
 
@@ -811,53 +811,53 @@ Os links abaixo vieram de: [sindresorhus/awesome](https://github.com/sindresorhu
 
 Below is a list of saved links related to Python studies:
 
-- [Mixins for Fun and Profit](https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556) [EN-US]
-- [Build an Interactive, Modern Dashboard With Dash](https://medium.com/better-programming/build-an-interactive-modern-dashboard-using-dash-ab6b34cb515) [EN-US]
-- [Graphing Pretty Charts With Python Flask and Chartjs](https://blog.ruanbekker.com/blog/2017/12/14/graphing-pretty-charts-with-python-flask-and-chartjs/) [EN-US]
-- [Melhorando a Qualidade do Código junto com o time](https://www.anapaulagomes.me/pt-br/2018/04/melhorando-a-qualidade-do-c%C3%B3digo-junto-com-o-time/) [PT-BR]
-- [Git diff e git merge mais práticos com o Meld](https://medium.com/@DiegoMartinsDePinho/git-diff-e-git-merge-mais-pr%C3%A1ticos-com-o-meld-862ae7f0df58) [PT-BR]
-- [10 reasons why software development projects fail](https://medium.com/superokay/10-reasons-why-software-development-projects-fail-7200e7c9ae2e) [EN-US]
-- [TOP 20 BIBLIOTECAS PYTHON PARA DATA SCIENCE](http://datascienceacademy.com.br/blog/top-20-bibliotecas-python-para-data-science/) [PT-BR]
-- [Deploying Scipy & Numpy With Docker](https://medium.com/google-cloud/deploying-scipy-numpy-with-docker-205e9afac3b0) [EN-US]
-- [Speed Up The Build of Your Python Docker Image](https://vsupalov.com/speed-up-python-docker-image-build/) [EN-US]
-- [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) [EN-US]
-- [Advance your Python skills by Building a Whatsapp Chat Analyser: a Guided Project](https://dev.to/nityeshaga/advance-your-python-skills-by-building-a-whatsapp-chat-analyser-a-guided-project-6p9) [EN-US]
-- [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming) [EN-US]
-- [Build Virtual Assistant with Python | Automate Tasks](https://dev.to/coderasha/build-virtual-assistant-with-python-automate-tasks-46a6) [EN-US]
-- [An introduction to the Flask Python web app framework](https://opensource.com/article/18/4/flask) [EN-US]
-- [Some thoughts on asynchronous API design in a post-async/await world](https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/) [EN-US]
-- [Python async/await Tutorial](https://stackabuse.com/python-async-await-tutorial/) [EN-US]
-- [Embarrassingly parallel for loops](https://joblib.readthedocs.io/en/latest/parallel.html) [EN-US]
-- [Using Python's asyncio with serial devices](https://tinkering.xyz/async-serial/) [EN-US]
-- [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) [EN-US]
-- [Django Channels for Background Tasks](http://albertoconnor.ca/django-channels-background-tasks.html) [EN-US]
-- [Using Python Threading and Returning Multiple Results (Tutorial)](https://www.shanelynn.ie/using-python-threading-for-multiple-results-queue/) [EN-US]
-- [Producer-consumer problem in Python](https://www.agiliq.com/blog/2013/10/producer-consumer-problem-in-python/) [EN-US]
-- [Behave](https://behave.readthedocs.io/en/latest/) [EN-US]
-- [Microservices with Python, RabbitMQ and Nameko](http://brunorocha.org/python/microservices-with-python-rabbitmq-and-nameko.html) [EN-US]
-- [Mensageria não é um bicho de 7 cabeças](https://imasters.com.br/devsecops/mensageria-nao-e-um-bicho-de-7-cabecas) [PT-BR]
-- [Grafana com InfluxDB e Telegraf para gerar gráficos](https://www.dobitaobyte.com.br/grafana-com-influxdb-e-telegraf/) [PT-BR]
-- [How to explain object-oriented programming concepts to a 6-year-old](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/) [EN-US]
-- [How to write a Pseudo Code?](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/) [EN-US]
-- [PYAUTOGUI](https://unixuniverse.com.br/linux/automacao-pyautogui) [PT-BR]
-- [DESENVOLVIMENTO WEB COM PYTHON E DJANGO: TEMPLATE](https://pythonacademy.com.br/blog/desenvolvimento-web-com-python-e-django-template) [PT-BR]
-- [Construindo Apis Rest Com Starlette - [Python Framework]](https://www.youtube.com/watch?v=WxJ0NM2r3uo) [PT-BR]
-- [Writing your first Django app, part 1](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) [EN-US]
-- [Getting started with Apache Cassandra and Python](https://towardsdatascience.com/getting-started-with-apache-cassandra-and-python-81e00ccf17c9) [EN-US]
-- [Uploading large files by chunking – featuring Python Flask and Dropzone.js](https://codecalamity.com/uploading-large-files-by-chunking-featuring-python-flask-and-dropzone-js/) [EN-US]
-- [Pyodide: Bringing the scientific Python stack to the browser](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/) [EN-US]
-- [How to upload your python package to PyPi](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56) [EN-US]
-- [Modern Parallel and Distributed Python: A Quick Tutorial on Ray](https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8) [EN-US]
-- [Melhorando a Qualidade do Código junto com o time](https://www.anapaulagomes.me/pt-br/2018/04/melhorando-a-qualidade-do-c%C3%B3digo-junto-com-o-time/) [PT-BR]
-- [Escrevendo seu primeiro app Django, parte 1](https://docs.djangoproject.com/pt-br/3.0/intro/tutorial01/) [PT-BR]
-- [Python filter()](https://www.programiz.com/python-programming/methods/built-in/filter) [EN-US]
-- [Quickstart Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/quickstart/) [EN-US]
-- [Building a CRUD application with Flask and SQLAlchemy](https://www.codementor.io/@garethdwyer/building-a-crud-application-with-flask-and-sqlalchemy-dm3wv7yu2) [EN-US]
-- [Connect Flask to a Database with Flask-SQLAlchemy](https://hackersandslackers.com/flask-sqlalchemy-database-models/) [EN-US]
-- [Flasky](https://github.com/miguelgrinberg/flasky) [EN-US]
-- [Flask Web Development](https://www.flaskbook.com/) [EN-US]
-- [keep a changelog](https://keepachangelog.com/en/1.0.0/) [EN-US]
-- [Curso de Selenium com Python](https://dunossauro.github.io/curso-python-selenium/) [PT-BR]
+- [Mixins for Fun and Profit](https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556)
+- [Build an Interactive, Modern Dashboard With Dash](https://medium.com/better-programming/build-an-interactive-modern-dashboard-using-dash-ab6b34cb515)
+- [Graphing Pretty Charts With Python Flask and Chartjs](https://blog.ruanbekker.com/blog/2017/12/14/graphing-pretty-charts-with-python-flask-and-chartjs/)
+- [Melhorando a Qualidade do Código junto com o time](https://www.anapaulagomes.me/pt-br/2018/04/melhorando-a-qualidade-do-c%C3%B3digo-junto-com-o-time/)
+- [Git diff e git merge mais práticos com o Meld](https://medium.com/@DiegoMartinsDePinho/git-diff-e-git-merge-mais-pr%C3%A1ticos-com-o-meld-862ae7f0df58)
+- [10 reasons why software development projects fail](https://medium.com/superokay/10-reasons-why-software-development-projects-fail-7200e7c9ae2e)
+- [TOP 20 BIBLIOTECAS PYTHON PARA DATA SCIENCE](http://datascienceacademy.com.br/blog/top-20-bibliotecas-python-para-data-science/)
+- [Deploying Scipy & Numpy With Docker](https://medium.com/google-cloud/deploying-scipy-numpy-with-docker-205e9afac3b0)
+- [Speed Up The Build of Your Python Docker Image](https://vsupalov.com/speed-up-python-docker-image-build/)
+- [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html)
+- [Advance your Python skills by Building a Whatsapp Chat Analyser: a Guided Project](https://dev.to/nityeshaga/advance-your-python-skills-by-building-a-whatsapp-chat-analyser-a-guided-project-6p9)
+- [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+- [Build Virtual Assistant with Python | Automate Tasks](https://dev.to/coderasha/build-virtual-assistant-with-python-automate-tasks-46a6)
+- [An introduction to the Flask Python web app framework](https://opensource.com/article/18/4/flask)
+- [Some thoughts on asynchronous API design in a post-async/await world](https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/)
+- [Python async/await Tutorial](https://stackabuse.com/python-async-await-tutorial/)
+- [Embarrassingly parallel for loops](https://joblib.readthedocs.io/en/latest/parallel.html)
+- [Using Python's asyncio with serial devices](https://tinkering.xyz/async-serial/)
+- [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [Django Channels for Background Tasks](http://albertoconnor.ca/django-channels-background-tasks.html)
+- [Using Python Threading and Returning Multiple Results (Tutorial)](https://www.shanelynn.ie/using-python-threading-for-multiple-results-queue/)
+- [Producer-consumer problem in Python](https://www.agiliq.com/blog/2013/10/producer-consumer-problem-in-python/)
+- [Behave](https://behave.readthedocs.io/en/latest/)
+- [Microservices with Python, RabbitMQ and Nameko](http://brunorocha.org/python/microservices-with-python-rabbitmq-and-nameko.html)
+- [Mensageria não é um bicho de 7 cabeças](https://imasters.com.br/devsecops/mensageria-nao-e-um-bicho-de-7-cabecas)
+- [Grafana com InfluxDB e Telegraf para gerar gráficos](https://www.dobitaobyte.com.br/grafana-com-influxdb-e-telegraf/)
+- [How to explain object-oriented programming concepts to a 6-year-old](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
+- [How to write a Pseudo Code?](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/)
+- [PYAUTOGUI](https://unixuniverse.com.br/linux/automacao-pyautogui)
+- [DESENVOLVIMENTO WEB COM PYTHON E DJANGO: TEMPLATE](https://pythonacademy.com.br/blog/desenvolvimento-web-com-python-e-django-template)
+- [Construindo Apis Rest Com Starlette - [Python Framework]](https://www.youtube.com/watch?v=WxJ0NM2r3uo)
+- [Writing your first Django app, part 1](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
+- [Getting started with Apache Cassandra and Python](https://towardsdatascience.com/getting-started-with-apache-cassandra-and-python-81e00ccf17c9)
+- [Uploading large files by chunking – featuring Python Flask and Dropzone.js](https://codecalamity.com/uploading-large-files-by-chunking-featuring-python-flask-and-dropzone-js/)
+- [Pyodide: Bringing the scientific Python stack to the browser](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/)
+- [How to upload your python package to PyPi](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
+- [Modern Parallel and Distributed Python: A Quick Tutorial on Ray](https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
+- [Melhorando a Qualidade do Código junto com o time](https://www.anapaulagomes.me/pt-br/2018/04/melhorando-a-qualidade-do-c%C3%B3digo-junto-com-o-time/)
+- [Escrevendo seu primeiro app Django, parte 1](https://docs.djangoproject.com/pt-br/3.0/intro/tutorial01/)
+- [Python filter()](https://www.programiz.com/python-programming/methods/built-in/filter)
+- [Quickstart Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/quickstart/)
+- [Building a CRUD application with Flask and SQLAlchemy](https://www.codementor.io/@garethdwyer/building-a-crud-application-with-flask-and-sqlalchemy-dm3wv7yu2)
+- [Connect Flask to a Database with Flask-SQLAlchemy](https://hackersandslackers.com/flask-sqlalchemy-database-models/)
+- [Flasky](https://github.com/miguelgrinberg/flasky)
+- [Flask Web Development](https://www.flaskbook.com/)
+- [keep a changelog](https://keepachangelog.com/en/1.0.0/)
+- [Curso de Selenium com Python](https://dunossauro.github.io/curso-python-selenium/)
 
 [GO TO INDEX](#index)
 
@@ -867,16 +867,16 @@ Below is a list of saved links related to Python studies:
 
 Below are lists with more content that increase the capacity of this list to get to know Python by x1000:
 
-- [Awesome](https://github.com/sindresorhus/awesome) [EN-US] - Lista com curadoria de listas impressionantes.
-- [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive) [EN-US] - Arquivo Git público.
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) [EN-US] - Uma lista com curadoria de impressionante.
-- [Lists](https://github.com/jnv/lists) [EN-US] - Lista de listas úteis, tolas e impressionantes, selecionadas no GitHub. 
-- [Awesome Python](https://github.com/vinta/awesome-python) [EN-US] - Uma lista com curadoria de estruturas, bibliotecas, software e recursos impressionantes do Python.
-- [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) [EN-US] - Ciência de Dados: notebooks Python: Aprendizado profundo (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS e vários comandos linhas.
-- [Awesome R](https://github.com/qinwf/awesome-R) [EN-US] - Uma lista curada de incríveis pacotes R, frameworks e software.
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) [EN-US] - Uma lista centrada em tópicos de conjuntos de dados abertos de alta qualidade em domínios públicos..
-- [Cursos de Python](https://github.com/weltonvaz/cursos) [PT-BR] - Cursos e apostilas gratuitos online de Python.
-- [Guia do Cientista de Dados das Galáxias](https://github.com/leportella/datascience-pizza/blob/master/README.md) [PT-BR] - Este repositório foi feito pela e para a comunidade. 
+- [Awesome](https://github.com/sindresorhus/awesome) - Lista com curadoria de listas impressionantes.
+- [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive) - Arquivo Git público.
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - Uma lista com curadoria de impressionante.
+- [Lists](https://github.com/jnv/lists) - Lista de listas úteis, tolas e impressionantes, selecionadas no GitHub. 
+- [Awesome Python](https://github.com/vinta/awesome-python) - Uma lista com curadoria de estruturas, bibliotecas, software e recursos impressionantes do Python.
+- [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Ciência de Dados: notebooks Python: Aprendizado profundo (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS e vários comandos linhas.
+- [Awesome R](https://github.com/qinwf/awesome-R) - Uma lista curada de incríveis pacotes R, frameworks e software.
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - Uma lista centrada em tópicos de conjuntos de dados abertos de alta qualidade em domínios públicos..
+- [Cursos de Python](https://github.com/weltonvaz/cursos) - Cursos e apostilas gratuitos online de Python.
+- [Guia do Cientista de Dados das Galáxias](https://github.com/leportella/datascience-pizza/blob/master/README.md) - Este repositório foi feito pela e para a comunidade. 
 - [The Book os Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 
 [GO TO INDEX](#index)
@@ -914,9 +914,9 @@ Scielo is a digital library of FAPESP, CNPq, Pan American Health Organization, V
 
 Below is a list of sites to put Python knowledge into practice:
 
-- [Lista De Exercicio para Python](https://wiki.python.org.br/ListaDeExercicios) [PT-BR] - Esta é uma lista com sugestões de programas para iniciantes em programação.
-- [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login) [EN-US] - O principal objetivo é promover a prática de programação e o compartilhamento de conhecimento.
-- [Kaggle](https://www.kaggle.com/) [EN-US] - Kaggle é o lugar para fazer projetos de Ciência de Dados.
+- [Lista De Exercicio para Python](https://wiki.python.org.br/ListaDeExercicios) - Esta é uma lista com sugestões de programas para iniciantes em programação.
+- [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/login) - O principal objetivo é promover a prática de programação e o compartilhamento de conhecimento.
+- [Kaggle](https://www.kaggle.com/) - Kaggle é o lugar para fazer projetos de Ciência de Dados.
 
 [GO TO INDEX](#index)
 
@@ -934,9 +934,9 @@ Below is a list of tutorials I did and keep saved so they can help more people:
 
 [DESCRIBE MARKDOWN HERE]
 
-- [O que é Markdown?](http://cursos.leg.ufpr.br/prr/capMarkdown.html) [PT-BR]
-- [CommonMark - Uma especificação fortemente definida e altamente compatível do Markdown](https://commonmark.org/help/) [EN-US]
-- [Markdown Tutorial](https://github.com/luongvo209/Markdown-Tutorial/blob/master/README_pt-BR.md#tools) [EN-US]
+- [O que é Markdown?](http://cursos.leg.ufpr.br/prr/capMarkdown.html)
+- [CommonMark - Uma especificação fortemente definida e altamente compatível do Markdown](https://commonmark.org/help/)
+- [Markdown Tutorial](https://github.com/luongvo209/Markdown-Tutorial/blob/master/README_pt-BR.md#tools)
 
 [GO TO INDEX](#index)
 
@@ -946,12 +946,12 @@ Below is a list of tutorials I did and keep saved so they can help more people:
 
 [DESCRIBE DOCKER HERE]
 
-- [Docker](https://www.docker.com/) [EN-US] - Site Oficial.
-- [Hub Docker](https://hub.docker.com/) [EN-US] - Onde ficam os containers criados e compartilhados pela galera.
-- [Mundo Docker](https://www.mundodocker.com.br/) [PT-BR]
-- [No final das contas: o que é o Docker e como ele funciona?](https://www.treinaweb.com.br/blog/no-final-das-contas-o-que-e-o-docker-e-como-ele-funciona/) [PT-BR]
-- [Tutorial Docker Iniciando E Como Rodar Containers](https://carlos-algms.github.io/blog/tutorial-docker-iniciando-e-como-rodar-containers/) [PT-BR]
-- [O que é o Kubernetes?](https://www.redhat.com/pt-br/topics/containers/what-is-kubernetes#) [PT-BR]
+- [Docker](https://www.docker.com/) - Site Oficial.
+- [Hub Docker](https://hub.docker.com/) - Onde ficam os containers criados e compartilhados pela galera.
+- [Mundo Docker](https://www.mundodocker.com.br/)
+- [No final das contas: o que é o Docker e como ele funciona?](https://www.treinaweb.com.br/blog/no-final-das-contas-o-que-e-o-docker-e-como-ele-funciona/)
+- [Tutorial Docker Iniciando E Como Rodar Containers](https://carlos-algms.github.io/blog/tutorial-docker-iniciando-e-como-rodar-containers/)
+- [O que é o Kubernetes?](https://www.redhat.com/pt-br/topics/containers/what-is-kubernetes#)
 
 [GO TO INDEX](#index)
 
