@@ -58,6 +58,12 @@ Texto
 - [PensePython2e](https://penseallen.github.io/PensePython2e/03-funcoes.html)
 - [Python 3 in 1 Hour](http://xahlee.info/python/python3_basics.html)
 - [Python 3.7](https://devdocs.io/python~3.7/)
+- [30 Helpful Python Snippets That You Can Learn in 30 Seconds or Less](https://towardsdatascience.com/30-helpful-python-snippets-that-you-can-learn-in-30-seconds-or-less-69bb49204172)
+- [10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b)
+- [An Introduction to Asynchronous Programming in Python](https://medium.com/velotio-perspectives/an-introduction-to-asynchronous-programming-in-python-af0189a88bbb)
+- [Introdução à Computação com Python: um curso interativo](https://panda.ime.usp.br/cc110/static/cc110/index.html)
+- [Padrões de Projeto em Python](https://github.com/kelvins/design-patterns-python)
+- []()
 
 ### Diversas
 
@@ -102,6 +108,7 @@ Texto
 - [JSON Data in Python](https://www.datacamp.com/community/tutorials/json-data-python)
 - [Django Rest Framework - #2 Requests and Responses](http://pythonclub.com.br/django-rest-framework-requests-responses.html)
 - [Python asyncio - Métodos assíncronos em Python](https://blog.nilo.pro.br/posts/2014-06-28-python-asyncio-metodos-assincronos-em-python/)
+- [Using Elasticsearch with Python and Flask](https://dev.to/aligoren/using-elasticsearch-with-python-and-flask-2i0e)
 
 ### Curso Python 3 do básico ao avançado
 
