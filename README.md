@@ -40,9 +40,9 @@ Texto
 
 </br>
  
-## Referências
+## REFERÊNCIAS
 
-### Importante
+### PRINCIPAIS
 
 - [Python](https://www.python.org/)
 - [Python Foundation](https://pyfound.blogspot.com/)
@@ -63,9 +63,32 @@ Texto
 - [An Introduction to Asynchronous Programming in Python](https://medium.com/velotio-perspectives/an-introduction-to-asynchronous-programming-in-python-af0189a88bbb)
 - [Introdução à Computação com Python: um curso interativo](https://panda.ime.usp.br/cc110/static/cc110/index.html)
 - [Padrões de Projeto em Python](https://github.com/kelvins/design-patterns-python)
+- [Everything you ever wanted to know about building a secure password reset feature](https://www.troyhunt.com/everything-you-ever-wanted-to-know/)
+- [Machine Learning for Cybersecurity 101](https://towardsdatascience.com/machine-learning-for-cybersecurity-101-7822b802790b)
+
+### AWESOME
+- [awesome-python-bytes](https://github.com/JackMcKew/awesome-python-bytes)
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Awesome Deep Learning Project Ideas](https://github.com/NirantK/awesome-project-ideas)
+- [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - []()
 
-### Diversas
+### POADCAST/NEWS/NOVIDADES
+- [Python Bytes](https://pythonbytes.fm/) - Poadcast
+- [Talk Python To Me](https://talkpython.fm/) - Poadcast
+- [RealWorld example apps](https://github.com/gothinkster/realworld) - Repositório
+- [Martin Fowler](https://martinfowler.com/)
+
+### GITHUB PROJETOS PARA APRENDER
+- [Pendulum](https://github.com/sdispater/pendulum)
+- [PyPika - Python Query Builder](https://github.com/kayak/pypika)
+- [FireAnt - Analytics and Reporting](https://github.com/kayak/fireant)
+- [BeeWare](https://beeware.org/)
+- [DeepDiff ](https://github.com/seperman/deepdiff)
+- [Rich](https://github.com/willmcgugan/rich)
+- [MeiliSearch Python](https://github.com/meilisearch/meilisearch-python)
+
+### DIVERSOS
 
 - [python-is-cool](https://github.com/chiphuyen/python-is-cool)
 - [Flasky](https://github.com/miguelgrinberg/flasky)
@@ -109,6 +132,10 @@ Texto
 - [Django Rest Framework - #2 Requests and Responses](http://pythonclub.com.br/django-rest-framework-requests-responses.html)
 - [Python asyncio - Métodos assíncronos em Python](https://blog.nilo.pro.br/posts/2014-06-28-python-asyncio-metodos-assincronos-em-python/)
 - [Using Elasticsearch with Python and Flask](https://dev.to/aligoren/using-elasticsearch-with-python-and-flask-2i0e)
+- [fastapi realworld example app](https://github.com/nsidnev/fastapi-realworld-example-app)
+- [How I ran Django on my android phone](https://dev.to/coledrain/how-i-ran-django-on-my-android-phone-k4a)
+- [Build a web API from scratch with FastAPI — the workshop](https://medium.com/@tiangolo/build-a-web-api-from-scratch-with-fastapi-the-workshop-866d089d23dc)
+- [Curso Python com Selenium](https://curso-python-selenium.netlify.app/)
 
 ### Curso Python 3 do básico ao avançado
 

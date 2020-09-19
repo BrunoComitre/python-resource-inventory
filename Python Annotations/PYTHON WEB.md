@@ -701,6 +701,8 @@ Below is a list of tools that make the job easier:
 - [AdelaiDet](https://github.com/aim-uofa/AdelaiDet) - AdelaiDet is an open source toolbox for multiple instance-level recognition tasks on top of Detectron2. All instance-level recognition works from our group are open-sourced here.
 - [Spinnaker](https://www.spinnaker.io/concepts/) - Spinnaker is an open-source, multi-cloud continuous delivery platform that helps you release software changes with high velocity and confidence.
 - [PyCharm](https://www.jetbrains.com/pycharm/) - The Python IDE for Professional Developers.
+- [Brython ](https://github.com/brython-dev/brython) - Browser Python is an implementation of Python 3 running in the browser, with an interface to the DOM elements and events.
+- [JustPy](https://github.com/elimintz/justpy) - JustPy is an object-oriented, component based, high-level Python Web Framework that requires no front-end programming.
 
 [GO TO INDEX](#index)
 
@@ -737,6 +739,8 @@ Below is a list of tools that make the job easier:
 - [Sonic](https://github.com/valeriansaliou/sonic) - Sonic is a fast, lightweight and schema-less search backend. It ingests search texts and identifier tuples that can then be queried against in a microsecond's time.
 - [Masonite](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework that strives for an actual batteries included developer tool with a lot of out of the box functionality with an extremely extendable architecture.
 - [Eve](https://github.com/pyeve/eve) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services. Eve offers native support for MongoDB, and SQL backends via community extensions.
+- [Flama](https://github.com/perdy/flama) - Flama aims to bring a layer on top of Starlette to provide an easy to learn and fast to develop approach for building highly performant GraphQL and REST APIs.
+- [Curio](https://github.com/dabeaz/curio) - Curio is a coroutine-based library for concurrent Python systems programming. It provides standard programming abstractions such as as tasks, sockets, files, locks, and queues.
 
 [GO TO INDEX](#index)
 
@@ -762,6 +766,8 @@ The following are some libraries dedicated to the study in Basic Python. There a
 - [Pip](https://pypi.org/project/pip/) - It's a package management system used to install and manage software packages written in the Python programming language.
 - [Urllib](https://docs.python.org/3/library/urllib.html) - It's a Python module for searching URLs.
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - It's a Python package for analyzing HTML and XML documents.
+- [pywebview](https://github.com/r0x0r/pywebview) - pywebview is a lightweight cross-platform wrapper around a webview component that allows to display HTML content in its own native GUI window.
+- [Masonite ](https://github.com/MasoniteFramework/masonite) - Masonite is perfect for beginner developers getting into their first web applications as well as experienced devs that need to utilize the full potential of Masonite to get their applications done.
 
 [GO TO INDEX](#index)
 
