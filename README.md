@@ -149,5 +149,6 @@ Texto
 - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html)
 - [Python Module Index](https://docs.python.org/3/py-modindex.html)
 - [Modules](https://docs.python.org/3/tutorial/modules.html)
+- [Built-in Functions Open](https://docs.python.org/3/library/functions.html#open)
 
 ***
