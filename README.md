@@ -147,5 +147,7 @@ Texto
 - [Built-in Functions](https://docs.python.org/3/library/functions.html)
 - [Built-in Types](https://docs.python.org/3/library/stdtypes.html)
 - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html)
+- [Python Module Index](https://docs.python.org/3/py-modindex.html)
+- [Modules](https://docs.python.org/3/tutorial/modules.html)
 
 ***
