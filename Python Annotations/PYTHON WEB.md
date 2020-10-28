@@ -767,7 +767,10 @@ The following are some libraries dedicated to the study in Basic Python. There a
 - [Urllib](https://docs.python.org/3/library/urllib.html) - It's a Python module for searching URLs.
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - It's a Python package for analyzing HTML and XML documents.
 - [pywebview](https://github.com/r0x0r/pywebview) - pywebview is a lightweight cross-platform wrapper around a webview component that allows to display HTML content in its own native GUI window.
-- [Masonite ](https://github.com/MasoniteFramework/masonite) - Masonite is perfect for beginner developers getting into their first web applications as well as experienced devs that need to utilize the full potential of Masonite to get their applications done.
+- [Masonite](https://github.com/MasoniteFramework/masonite) - Masonite is perfect for beginner developers getting into their first web applications as well as experienced devs that need to utilize the full potential of Masonite to get their applications done.
+- [Toolz](https://github.com/pytoolz/toolz) - A set of utility functions for iterators, functions, and dictionaries.
+- [Hetty](https://github.com/dstotijn/hetty) - HTTP toolkit for security research.
+- [Pampy](https://github.com/santinic/pampy) - Pattern Matching for Python.
 
 [GO TO INDEX](#index)
 
@@ -864,6 +867,10 @@ Below is a list of saved links related to Python studies:
 - [Flask Web Development](https://www.flaskbook.com/)
 - [keep a changelog](https://keepachangelog.com/en/1.0.0/)
 - [Curso de Selenium com Python](https://dunossauro.github.io/curso-python-selenium/)
+- [Python 3: fight for nonblocking pipe](https://medium.com/@denismakogon/python-3-fight-for-nonblocking-pipe-68f92429d18e)
+- [Top 10 Sites para Praticar Automação de Testes Web](https://medium.com/@reiload_88128/top-10-sites-para-praticar-automa%C3%A7%C3%A3o-de-testes-web-1f2f4e54ff80e)
+- [Aprendendo DevOps na faixa: artigos, vídeos, canais, comunidades…](https://medium.com/azure-na-pratica/aprendendo-devops-na-faixa-artigos-v%C3%ADdeos-canais-comunidades-c828a8a1b706)
+- [fastcore: An Underrated Python Library](https://fastpages.fast.ai/fastcore/)
 
 [GO TO INDEX](#index)
 
