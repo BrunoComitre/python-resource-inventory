@@ -2,8 +2,8 @@
 #
 # -*- coding: utf-8 -*-
 #
-# Copyright 2020 Berghem
-#
+# Copyright 2020 
+# #
 #Create First Tornado Test Web Application
 #
 
