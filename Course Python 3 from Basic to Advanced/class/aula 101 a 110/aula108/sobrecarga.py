@@ -68,8 +68,149 @@ class Retangulo:
         else:
             return False
 
+    def __sub__(self, other):
+        novo_x = self.x - other.x
+        novo_y = self.y - other.y
+        return Retangulo(novo_x, novo_y)
+    
+    def __mul__(self, other):
+        novo_x = self.x * other.x
+        novo_y = self.y * other.y
+        return Retangulo(novo_x, novo_y)
+    
+    def __div__(self, other):
+        a1 = self.get_area()
+        a2 = other.get_area()
 
+        if a1 / a2:
+            return True
+        else:
+            return False
+    
+    def __floordiv__(self, other):
+        novo_x = self.x // other.x
+        novo_y = self.y // other.y
+        return Retangulo(novo_x, novo_y)
+    
+    def __mod__(self, other):
+        novo_x = self.x % other.x
+        novo_y = self.y % other.y
+        return Retangulo(novo_x, novo_y)
+    
+    def __pow__(self, other):
+        novo_x = self.x ** other.x
+        novo_y = self.y ** other.y
+        return Retangulo(novo_x, novo_y)
+    
+    def __pos__(self, other):
+        novo_x = self.x + other.x
+        novo_y = self.y + other.y
+        return Retangulo(novo_x, novo_y)
+    
+    def __neg__(self, other):
+        novo_x = self.x - other.x
+        novo_y = self.y - other.y
+        return Retangulo(novo_x, novo_y)
+    
+    def __le__(self, other):
+        a1 = self.get_area()
+        a2 = other.get_area()
+
+        if a1 <= a2:
+            return True
+        else:
+            return False
+        
+    def __ge__(self, other):
+        a1 = self.get_area()
+        a2 = other.get_area()
+
+        if a1 >= a2:
+            return True
+        else:
+            return False
+        
+    def __ne__(self, other):
+        a1 = self.get_area()
+        a2 = other.get_area()
+
+        if a1 != a2:
+            return True
+        else:
+            return False
+        
+    def __lshift__(self, other):
+        a1 = self.get_area()
+        a2 = other.get_area()
+
+        if a1 << a2:
+            return True
+        else:
+            return False
+        
+    def __rshift__(self, other):
+        a1 = self.get_area()
+        a2 = other.get_area()
+
+        if a1 >> a2:
+            return True
+        else:
+            return False
+        
+    def __and__(self, other):
+        a1 = self.get_area()
+        a2 = other.get_area()
+
+        if a1 & a2:
+            return True
+        else:
+            return False
+        
+    def __or__(self, other):
+        a1 = self.get_area()
+        a2 = other.get_area()
+
+        if a1 | a2:
+            return True
+        else:
+            return False
+        
+    def __xor__(self, other):
+        a1 = self.get_area()
+        a2 = other.get_area()
+
+        if a1 ^ a2:
+            return True
+        else:
+            return False
+        
+    # def __inv__(self, other):
+    #     novo_x = self.x ~ other.x
+    #     novo_y = self.y ~ other.y
+    #     return Retangulo(novo_x, novo_y)
+        
 r1 = Retangulo(10, 20)
 r2 = Retangulo(10, 20)
 r3 = r1 + r2
+
+print(r1 + r3)
+print(r1 - r3)
+print(r1 * r3)
+# print(r1 / r3)
+print(r1 // r3)
+print(r1 % r3)
+print(r1 ** r3)
+print(r1 + r3)
+print(r1 - r3)
+print(r1 < r3)
+print(r1 > r3)
+print(r1 <= r3)
+print(r1 >= r3)
 print(r1 == r3)
+print(r1 != r3)
+print(r1 << r3)
+print(r1 >> r3)
+print(r1 & r3)
+print(r1 | r3)
+print(r1 ^ r3)
+# print(r1 ~ r3)
