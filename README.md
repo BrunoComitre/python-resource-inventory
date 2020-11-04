@@ -150,5 +150,6 @@ Texto
 - [Python Module Index](https://docs.python.org/3/py-modindex.html)
 - [Modules](https://docs.python.org/3/tutorial/modules.html)
 - [Built-in Functions Open](https://docs.python.org/3/library/functions.html#open)
+- [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
 
 ***
