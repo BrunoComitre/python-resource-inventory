@@ -22,5 +22,7 @@ Finishing Python course, add [Django](https://github.com/BrunoComitre/django3) r
 - [Modules](https://docs.python.org/3/tutorial/modules.html)
 - [Built-in Functions Open](https://docs.python.org/3/library/functions.html#open)
 - [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
+- [Cálculo de Sub-Redes IPv4](https://www.todoespacoonline.com/w/2015/06/calculo-de-sub-redes-ipv4/)
+- [Cálculo de sub-rede TCP/IPv4](https://www.youtube.com/watch?v=GGmhv1Wz6fc)
 
 ***
