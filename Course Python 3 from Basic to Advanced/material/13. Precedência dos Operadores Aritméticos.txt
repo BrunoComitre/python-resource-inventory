@@ -1,0 +1,22 @@
+Precedência dos Operadores Aritméticos
+
+Assim como aprendemos na matemática, operadores têm uma certa precedência que 
+pode ser alterada usando os parênteses (como descrito na aula anterior).
+
+Abaixo segue uma lista mais precisa de quais operadores tem maior prioridade na 
+hora de realizar contas mais complexas (de maior para menor precedência).
+
+1. '(n+n)' - Os parênteses têm a maior precedência, contas dentro deles são realizadas primeiro
+
+2. '**' - Depois vem a exponenciação
+
+3. '* / //  %' - Na sequência multiplicação, divisão, divisão inteira e módulo
+
+4. '+ -' - Por fim, soma e subtração
+
+Contas com operadores de mesma precedência são realizadas da esquerda para a direita.
+
+Observação: existem muito mais operadores do que estes em Python e todos eles 
+também têm precedência, você pode ver a lista completa em 
+https://docs.python.org/3/reference/expressions.html#operator-precedence 
+(sempre utilize a documentação oficial como reforço caso necessário).

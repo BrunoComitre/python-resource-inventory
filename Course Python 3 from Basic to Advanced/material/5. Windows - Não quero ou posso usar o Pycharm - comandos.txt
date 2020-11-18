@@ -1,0 +1,6 @@
+# WINDOWS
+# Acesse a pasta do projeto
+cd C:\caminho\do\projeto
+python -m venv env
+\env\Scripts\activate.bat
+deactivate

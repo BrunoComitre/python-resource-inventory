@@ -1,0 +1,38 @@
+version: '3.7'
+
+services:
+    web:
+        build: ./src
+        command: uvicorn app.main:app --reload --workers 1 --host 0.0.0.0 --port 8000
+        volumes: 
+            - ./src/:/usr/src/app/
+        ports: 
+            - 8002:8000
+        environment:
+            - DATABASE_URL=postgresql://hello_fastapi:hello_fastapi@db/hello_fastapi_dev
+    db:
+        image: postgres:13-alpine
+        restart: always
+        volumes: 
+            - postgres_data:/var/lib/postgresql/data/
+        env_file:
+            - .env
+        # networks:
+        #     - fastapi-network
+    pgadmin:
+        image: dpage/pgadmin4
+        env_file:
+            - .env
+        ports:
+            - "16543:80"
+        depends_on:
+            - db
+        networks:
+            - fastapi-network
+
+volumes:
+    postgres_data:
+
+networks:
+    fastapi-network:
+        driver: bridge 

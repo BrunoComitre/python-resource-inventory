@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+asyncio = "==3.4.3"
+signals = "==0.0.2"
+aiohttp = "==3.6.2"
+jsonlib-python3 = "==1.6.1"
+tornado = "==6.0.4"
+memory-profiler = "*"
+profilehooks = "*"
+pytest-benchmark = "*"
+pandas = "*"
+aioredis = "*"
+fastapi = "*"
+
+[requires]
+python_version = "3.8"
