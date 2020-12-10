@@ -1156,6 +1156,23 @@ Pegar a branch, mandar as coisas dela pra develop mas sem fechar: git checkout d
 - https://github.com/tba91
 - https://github.com/Pbezerra-dev/Mtranscoder
 - https://github.com/zalando/connexion
+- https://www.ime.usp.br/~macmulti/exercicios/
+- https://legacy.python.org/dev/peps/pep-0008/
+- https://devdocs.io/python~3.7/
+- https://dev.to/aligoren/using-elasticsearch-with-python-and-flask-2i0e
+- https://medium.com/bugbountywriteup/how-i-developed-a-full-fledged-security-operations-centre-using-elk-stack-8dfaec821e23
+- https://www.techbeamers.com/python-map-function/
+- https://github.com/alexmojaki/heartrate
+- https://imasters.com.br/devsecops/monitorando-largura-de-banda-com-grafana-influxdb-e-docker
+- https://imasters.com.br/devsecops/monitorando-largura-de-banda-parte-02-python-nameko
+- http://pythonclub.com.br/what-the-flask-pt-1-introducao-ao-desenvolvimento-web-com-python
+- https://imasters.com.br/desenvolvimento/conheca-os-operadores-bitwise-bit-bit
+- http://pythonclub.com.br/progrmacao-funcional-com-python-0.html
+- https://developers.google.com/edu/python/exercises/basic
+- https://imasters.com.br/py/gerenciando-seu-projeto-python-com-o-pipenv
+- https://medium.com/welcome-to-the-django/guia-definitivo-para-organizar-meu-ambiente-python-a16e2479b753
+- https://pythonspeed.com/articles/base-image-python-docker-images/
+- https://panda.ime.usp.br/cc110/static/cc110/index.html
 
 [GO TO INDEX](#index)
 
