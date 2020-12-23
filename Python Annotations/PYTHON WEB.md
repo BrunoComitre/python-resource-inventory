@@ -13,6 +13,7 @@
   - [TO-DO](#to-do)
   - [Motivation](#motivation)
   - [Introductory Area](#introductory-area)
+  - [Python](#python)
   - [Knowledge](#knowledge)
     - [Open and Massive Online Course (MOOC)](#open-and-massive-online-course-mooc)
     - [Books](#books)
@@ -51,8 +52,6 @@
   - [Tutorials](#tutorials)
     - [Markdown](#markdown)
     - [Docker](#docker)
-    - [GIT](#git)
-      - [Comandos diversos](#comandos-diversos)
   - [Links to Organize](#links-to-organize)
   - [Notes](#notes)
 
@@ -168,6 +167,18 @@ And that's it: this is the Area's Introductory Package. You are now able to star
 **Remember!**
 
 **Copying everything from StackOverflow, doesn't make you understand anything, it just makes you a good copier!**
+
+[GO TO INDEX](#index)
+
+<br />
+
+## Python
+
+[DESCRIBE KNOWLEDGE HERE]
+
+- [PCEP – Certified Entry-Level Python Programmer Certification](https://pythoninstitute.org/certification/pcep-certification-entry-level/)
+- [Python Software Foundation](https://www.python.org/psf/)
+- [Glossário Python 3.9.1](https://docs.python.org/pt-br/3/glossary.html)
 
 [GO TO INDEX](#index)
 
@@ -654,6 +665,7 @@ Agile software development comprises various approaches to software development 
 - [Refactoring](https://sourcemaking.com/refactoring) - Bloaters are code, methods and classes that have increased to such gargantuan proportions that they are hard to work with.
 - [AntiPatterns](https://sourcemaking.com/antipatterns) - AntiPatterns, like their design pattern counterparts, define an industry vocabulary for the common defective processes and implementations within organizations. 
 - [Design Patterns](https://sourcemaking.com/design_patterns) - In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design.
+- [Padrões de Projeto em Python](https://github.com/kelvins/design-patterns-python)
 
 [GO TO INDEX](#index)
 
@@ -871,6 +883,8 @@ Below is a list of saved links related to Python studies:
 - [Top 10 Sites para Praticar Automação de Testes Web](https://medium.com/@reiload_88128/top-10-sites-para-praticar-automa%C3%A7%C3%A3o-de-testes-web-1f2f4e54ff80e)
 - [Aprendendo DevOps na faixa: artigos, vídeos, canais, comunidades…](https://medium.com/azure-na-pratica/aprendendo-devops-na-faixa-artigos-v%C3%ADdeos-canais-comunidades-c828a8a1b706)
 - [fastcore: An Underrated Python Library](https://fastpages.fast.ai/fastcore/)
+- [An Introduction to Asynchronous Programming in Python](https://medium.com/velotio-perspectives/an-introduction-to-asynchronous-programming-in-python-af0189a88bbb)
+- [DESENVOLVIMENTO WEB COM PYTHON E DJANGO: TEMPLATE](https://pythonacademy.com.br/blog/desenvolvimento-web-com-python-e-django-template)
 
 [GO TO INDEX](#index)
 
@@ -965,113 +979,6 @@ Below is a list of tutorials I did and keep saved so they can help more people:
 - [No final das contas: o que é o Docker e como ele funciona?](https://www.treinaweb.com.br/blog/no-final-das-contas-o-que-e-o-docker-e-como-ele-funciona/)
 - [Tutorial Docker Iniciando E Como Rodar Containers](https://carlos-algms.github.io/blog/tutorial-docker-iniciando-e-como-rodar-containers/)
 - [O que é o Kubernetes?](https://www.redhat.com/pt-br/topics/containers/what-is-kubernetes#)
-
-[GO TO INDEX](#index)
-
-<br />
-
-### GIT
-
-Este artigo tem o intuito de expor uma abordagem de como trabalhar utilizando o fluxo git flow. [Utilizando o fluxo Git Flow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04).
-
-Se você já trabalha com o git como principal ferramenta de controle de versão, já deve ter visto várias abordagens de como utilizar e controlar branchs em um cenário de produção ou pessoal.
-
-E se você é novo com git, este fluxo irá te ajudar a ter maior familiaridade de como empresas, projetos opensource costumam utilizar seus fluxos de trabalho.
-
-É muito comum vermos pessoas utilizando somente um branch para fazer commits em projetos pessoais. Isto não é errado, é muito tranquilo de se controlar tudo em uma branch quando se está desenvolvendo sozinho, mas o cenário muda bastante quando temos que interagir com mais contribuidores, seja em um projeto opensource ou privado.
-
-Nessas horas é suma importância que se tenha total controle do que está sendo produzido por sua equipe, onde, ao mesmo tempo são corrigidos falhas, implementado novas funcionalidades e ter o seu código de produção com total funcionamento entregue ao seu cliente.
-
-A **master** irá contér todo código já testado, versionado que será entregue ao cliente e a **develop** é onde todo fluxo de trabalho irá ocorrer antes de fazer o release versionado que será feito merge na **master**.
-
-A **develop** deve sempre conter o código mais atual, onde as branchs de features serão ramificadas tendo ela como base.
-
-Exemplo, suponhamos que você precise criar um feature que mudará todo o fluxo e interface de um componente, como fariamos para criar nossa branch ?
-
-Certifique-se de que a branch develop existe no seu repositório remoto listando suas branchs locais e remotas:
-```
- $ git branch -a
-```
-
-Caso não esteja, faça a sincronização do seu repositório remoto, faça o checkout criando sua branch develop e envie para seu repositório remoto:
-```
-$ git fetch origin && git checkout -b develop && git push origin develop
-```
-
-Após ter criado a develop, onde irá acontecer todo desenvolvimento, crie a branch respectiva a sua implementação, lembre-se de manter um padrão de nomenclatura para facilitar o entendimento como é sugerido no git flow:
-
-**feature**: para novas implementações
-
-**release**: para finalizar o release e tags
-
-**hotfix**: para resolver problema crítico em produção que não pode esperar novo release
-
-Neste caso, como já estamos na **develop**:
-```
-$ git checkout -b feature/novo-componente
-```
-
-Após criado, você trabalha em sua modificação localmente, caso seja necessário que outra pessoa trabalhe nesta mesma implementação você deve compartilhar para seu repositório remoto:
-```
-$ git push origin feature/novo-componente
-```
-
-Show, implementação feita, agora é hora de fazer o merge deste feature com a develop, para isto, faça o checkout para a branch develop, faça o merge da feature e atualize o remoto:
-```
-$ git checkout develop && git merge feature/novo-componente && git push origin develop
-```
-
-Caso não ocorra nenhum conflito, beleza, estamos prontos para fazer o release desta implementação e submeter ao repositório remoto, para isto, crie a branch de release e envie:
-```
-$ git checkout -b release/v1.0.1 && git push origin release/v1.0.1
-```
-
-Após feito os ultimos testes, você já pode fazer a tag da versão:
-```
-$ git tag -a v1.0.1 -m “Release do novo componente”
-```
-
-Lembrando, que se foi identificado algum bug durante o processo, você deve tratar este bug na branch de release, enviar para a master e para a develop também, fazendo que a develop sempre contenha as correções.
-
-Nas hora de inserir a tag, gosto de utilizar tag anotadas, pois ela registra informações de quem fez a tag, data, hash, caso não queira estas informações, simplifique:
-```
-$ git tag v1.0.1
-```
-
-Agora vamos conferir se a tag foi criada e enviar para o repositório remoto:
-```
-$ git show v1.0.1 && git push origin v1.0.1
-```
-
-Se tudo correu bem, sua tag será criada e estamos aptos a fazer o merge com a master deste pequeno release na master:
-```
-$ git checkout master && git merge release/v1.0.1
-```
-
-XABLAU
-
-Prontinho, desta forma, obtemos informações de todas as etapas do desenvolvimento, além de padronizar a nomenclatura das branchs facilitando na hora de puxar um log maroto.
-
-Dica: Existe um plugin para facilitar a criação e organização do seu repositório utilizando o fluxo do git-flow, se liga nesse plugin massa!
-
-#### Comandos diversos
-
-Atualizar branch com a develop:
-```
-git merge develop
-```
-
-Para apagar o branch localmente:
-```
-git branch -D <nome do branch>
-```
-
-Para apagar o branch remotamente:
-```
-git push <nome do origin> <nome do branch> --delete
-```
-
-Pegar a branch, mandar as coisas dela pra develop mas sem fechar: git checkout develop && git merge feature/architecture && git push origin develop
 
 [GO TO INDEX](#index)
 
@@ -1173,6 +1080,13 @@ Pegar a branch, mandar as coisas dela pra develop mas sem fechar: git checkout d
 - https://medium.com/welcome-to-the-django/guia-definitivo-para-organizar-meu-ambiente-python-a16e2479b753
 - https://pythonspeed.com/articles/base-image-python-docker-images/
 - https://panda.ime.usp.br/cc110/static/cc110/index.html
+- https://github.com/pydanny/cookiecutter-django/
+- https://linktr.ee/henriquebastosnet
+- https://towardsdatascience.com/how-to-write-python-command-line-interfaces-like-a-pro-f782450caf0d
+- https://cosmiccoding.com.au/tutorials/simple_singletons
+- https://stackoverflow.com/questions/49883177/how-does-lru-cache-from-functools-work
+- https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database
+
 
 [GO TO INDEX](#index)
 
