@@ -1086,6 +1086,7 @@ Below is a list of tutorials I did and keep saved so they can help more people:
 - https://cosmiccoding.com.au/tutorials/simple_singletons
 - https://stackoverflow.com/questions/49883177/how-does-lru-cache-from-functools-work
 - https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database
+- https://blog.nilo.pro.br/posts/2014-06-28-python-asyncio-metodos-assincronos-em-python/
 
 
 [GO TO INDEX](#index)
