@@ -920,7 +920,7 @@ How to find more about anything, including the Data Science theme?
 
 Most articles and books are paid, as knowledge is not free in our society. However, a group of researchers came together to release knowledge, founding Sci-Hub, LibGen and other initiatives, which is why they are sued by publishers for millions of dollars, as they profit by keeping the population in ignorance.
 
-[LibGen](www.libgen.pw) - It's a search engine for scientific articles and fiction books, has more than 2 million scientific articles (which are published by researchers from universities around the world) and 2.7 million fiction books in several languages, mainly English, but it is possible to find content in Portuguese.
+[LibGen](www.libgen.pw) ou [Library Genesis](http://libgen.rs/) - It's a search engine for scientific articles and fiction books, has more than 2 million scientific articles (which are published by researchers from universities around the world) and 2.7 million fiction books in several languages, mainly English, but it is possible to find content in Portuguese.
 
 [Sci-Hub](www.sci-hub.pw) - It's an online repository with more than 64 million scientific articles, available on its website. New documents are sent daily through the domains of educational institutions, which bypass systems that restrict access to Internet users without paid records on their websites. It was founded by a neuroscientist from Kazakhstan. To get a scientific article, just place the DOI (Digital Object Identifier - a standard for identifying digital objects) in the search field and the website will redirect you to purchase the article. A good website for picking up DOIs is at [ScienceDirect](https://www.sciencedirect.com/).
 
