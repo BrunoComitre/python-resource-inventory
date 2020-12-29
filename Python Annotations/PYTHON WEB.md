@@ -885,6 +885,10 @@ Below is a list of saved links related to Python studies:
 - [fastcore: An Underrated Python Library](https://fastpages.fast.ai/fastcore/)
 - [An Introduction to Asynchronous Programming in Python](https://medium.com/velotio-perspectives/an-introduction-to-asynchronous-programming-in-python-af0189a88bbb)
 - [DESENVOLVIMENTO WEB COM PYTHON E DJANGO: TEMPLATE](https://pythonacademy.com.br/blog/desenvolvimento-web-com-python-e-django-template)
+- [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
+- [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
+- [Write Better Python Code With These 10 Tricks](https://towardsdatascience.com/write-better-python-code-with-these-10-tricks-30b7018e247a)
+- [O básico sobre Poetry: Gerenciamento de Dependências para Python](https://alisonamerico.github.io/o-basico-poetry/)
 
 [GO TO INDEX](#index)
 
@@ -1087,7 +1091,8 @@ Below is a list of tutorials I did and keep saved so they can help more people:
 - https://stackoverflow.com/questions/49883177/how-does-lru-cache-from-functools-work
 - https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database
 - https://blog.nilo.pro.br/posts/2014-06-28-python-asyncio-metodos-assincronos-em-python/
-
+- https://towardsdatascience.com/dont-use-recursion-in-python-any-more-918aad95094c
+- https://towardsdatascience.com/dunderless-python-7d7ab634450b
 
 [GO TO INDEX](#index)
 
