@@ -25,10 +25,10 @@ sdist/
 var/
 wheels/
 share/python-wheels/
-*.egg-info/
 .installed.cfg
-*.egg
 MANIFEST
+forge.yaml
+.forge
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -76,6 +76,7 @@ db.sqlite3-journal
 
 # Sphinx documentation
 docs/_build/
+README.html
 
 # PyBuilder
 .pybuilder/
@@ -118,8 +119,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+*.egg
 *.egg-info*
 *.pkl
+app/.env
 
 # Spyder project settings
 .spyderproject
@@ -161,6 +164,7 @@ ehthumbs_vista.db
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+bin
 
 # Windows Installer files
 *.cab
@@ -193,10 +197,19 @@ ipython_config.py
 ### VSCODE ###
 
 .vscode
- .vscode/*
- !.vscode/settings.json
- !.vscode/tasks.json
- !.vscode/launch.json
- !.vscode/extensions.json
- *.code-workspace
- .DS_Store
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.DS_Store
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Complexity
+output/*.html
+output/*/index.html
