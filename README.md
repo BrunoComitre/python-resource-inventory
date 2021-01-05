@@ -374,6 +374,8 @@ Below is a list of paid and free books:
 
 Courses related to Python Language:
 
+- [Obey the Testing Goat!](http://www.obeythetestinggoat.com/pages/book.html#toc)
+- [Test-Driven Development with Python](https://www.cosmicpython.com/book/preface.html)
 - [Introduction to Computer Science with Python Part 1 (USP)](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
 - [Basic Python](https://solyd.com.br/treinamentos/python-basico)
 - [Python Programming: A Concise Introduction (Wesleyan University)](https://www.coursera.org/learn/python-programming-introduction)
