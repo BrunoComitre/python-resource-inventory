@@ -44,7 +44,7 @@
 
 repository updates:
 
-- [ ] Example
+- [ ] Open sites and verify that they are active and that they are part of the repository.
 
 [GO TO INDEX](#index)
 
