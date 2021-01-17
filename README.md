@@ -17,6 +17,7 @@
   - [Frameworks](#frameworks)
   - [Libraries](#libraries)
   - [Graphical User Interface GUI](#graphical-user-interface-gui)
+  - [DDD](#ddd)
 - [Mentors and Role Models](#mentors-and-role-models)
 - [Learning Platforms](#learning-platforms)
   - [Open and Massive Online Course](#open-and-massive-online-course)
@@ -225,6 +226,7 @@ Popular Python Frameworks:
 - [Curio](https://github.com/dabeaz/curio) - Curio is a coroutine-based library for concurrent Python systems programming. It provides standard programming abstractions such as as tasks, sockets, files, locks, and queues.
 - [TurboGears 2](https://robotframework.org/) - Automation Testing.
 - [ROBOT](https://turbogears.org/) - The Web Framework that scales with you.
+- [Flask-Meld](https://github.com/mikeabrahamsen/Flask-Meld) - Meld is a framework for Flask to meld your frontend and backend code.
 
 [GO TO INDEX](#index)
 
@@ -259,6 +261,7 @@ The following are some libraries dedicated to the study in Basic Python. There a
 - [PyUnit ](https://www.guru99.com/python-unit-testing-guide.html) - Automation Testing.
 - [behave](https://behave.readthedocs.io/en/stable/) - Automation Testing.
 - [Splinter](https://splinter.readthedocs.io/en/latest/) - Automation Testing.
+- [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build and share data apps.
 
 [GO TO INDEX](#index)
 
@@ -280,6 +283,16 @@ allows interaction with digital devices through graphic elements such as icons a
 
 <br />
 
+### DDD
+
+Domain-driven design is the concept that the structure and language of software code should match the business domain:
+
+- [Using DDD with FastAPI and sub-applications](https://dev.to/xandecodes/usando-ddd-com-fastapi-e-subaplicacoes-2fob)
+
+[GO TO INDEX](#index)
+
+<br />
+
 
 ## Mentors and Role Models
 
@@ -289,14 +302,12 @@ It is always nice to add a short column for role models nearby that inspire you:
 - [Henrique Bastos](https://linktr.ee/henriquebastosnet)
 - [Déborah Mesquita](https://www.deborahmesquita.com/)
 - [Lucas Caton](https://www.lucascaton.com.br/)
-
 - [Greg Reda](http://www.gregreda.com/)
 - [Kevin Davenport](http://kldavenport.com/)
 - [Julia Evans](http://jvns.ca/)
 - [The File Drawer](http://chris-said.io/)
 - [Hilary Parker](https://hilaryparker.com/)
 - [Kenny Bastani](http://www.kennybastani.com/)
-
 - [Shane Lynn](https://www.shanelynn.ie/)
 - [John Myles White](http://www.johnmyleswhite.com/)
 - [Daniel Forsyth](http://www.danielforsyth.me/)
@@ -366,6 +377,7 @@ Below is a list of paid and free books:
 - [Python for Developers](https://novatec.com.br/livros/python-para-desenvolvedores/)
 - [TDD with Python](https://novatec.com.br/livros/tdd-com-python/) - [online version](https://github.com/hjwp/Book-TDD-Web-Dev- Python /)
 - [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
+- [Lectures of Linear Algebra With Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python)
 
 [GO TO INDEX](#index)
 
@@ -783,6 +795,7 @@ Links from different sites:
 - [more-itertools](https://pypi.org/project/more-itertools/)
 - [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/)
 - [Python functions: understanding parameters, arguments, *args and **kwargs](https://medium.com/luizalabs/fun%C3%A7%C3%B5es-em-python-entendendo-par%C3%A2metros-argumentos-args-e-kwargs-4291b1f817f6)
+- [Python Scope & the LEGB Rule: Resolving Names in Your Code](https://realpython.com/python-scope-legb-rule/)
 
 [GO TO INDEX](#index)
 
