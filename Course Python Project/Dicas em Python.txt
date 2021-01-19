@@ -1,0 +1,54 @@
+
+Para comentários em Python na frente do código o correto é dar dois espaços na frente do código. Exemplo:
+print('Linha')  # Comentários exemplo
+
+Funções executam ações
+
+O que você passa dentro das funções são os argumentos
+
+Concatenação significa juntar valores
+
+Igual é um operador de atribuição
+
+Cast significa convertar uma varável de um tipo para outro tipo
+
+Input sempre retorna string
+
+ç = ctrl alt <
+á ctrl alt a
+ó ctrl alt o
+
+imports são módulos em Python
+
+def example(): - Os parênteses vazios depois do nome indicam que esta função não usa argumentos.
+A definição de uma função cria um objeto de função, que tem o tipo function
+Parâmetro panda para ler dataset em partes: chunksize
+
+Método para aplicar uma função em todo dataframe: applymap()
+
+Diversas estatísticas no python: pandas_profiling
+
+Métodos é o que aparece após o . no código - exemplo nome.upper()
+
+Funções built-in são por exemplo: len, abs, type, print, entre outras
+
+Com a palavra continue no laço, ele pula os próximos passos do loop e pula para o próximo laço
+
+While sempre precisa de um contador
+
+Palavra continue - pula para o próximo laço
+Palavra break - termina o laço
+
+Existe For Else e While Else
+
+Enumerate faz desempacotamento de listas
+
+_ (underline) como variável significa que você nâo vai utilizada no restante do código
+
+Parâmetros são valor que você está passando pra função - def(aquidentreoéumparametro)
+
+Qualquer código abaixo da palavra return, nâo será executada
+
+Se você nâo sabe quantos argumentos vai vir na sua função, você utiliza o *args
+
+Variável de escopo global, significa que a variável está acessível em toda parte da aplicação
