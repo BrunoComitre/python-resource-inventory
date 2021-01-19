@@ -1,0 +1,22 @@
+version: '3.7'
+
+services:
+  mongodb:
+    restart: always
+    image: mongo:4.2.8
+    container_name: mongodb
+    environment:
+      - MONGO_INITDB_DATABASE=notes
+      - AUTH=no
+    volumes:
+      - ./data/db:/var/micro-data/mongodb/data/db
+    ports:
+      - 27017:27017
+    command: mongod --logpath=/dev/null # --quiet
+
+networks:
+  default:
+    name: web_dev
+    
+    # volumes:
+    #  - ./mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro

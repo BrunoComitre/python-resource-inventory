@@ -1,0 +1,25 @@
+os dados nao salvam no banco
+ao criar a nota preciso passar [ ]
+remover id repetido
+
+VER THIAGO MUDANÇA DE API E MONGO BIBLIOTECA
+INSERIR ID NAS NOTAS
+VERIFICAR MODELS E ROTAS NOVAS PARA ARMAZENAR NO BANCO
+
+https://www.moesif.com/blog/technical/restful/Guide-to-Creating-RESTful-APIs-using-Python-Flask-and-MongoDB/
+https://medium.com/dockerbr/mongodb-no-docker-dd3b72c7efb7
+
+
+http://containertutorials.com/docker-compose/flask-mongo-compose.html
+https://medium.com/@riken.mehta/full-stack-tutorial-flask-react-docker-ee316a46e876
+
+********************************************************************************
+
+https://hub.docker.com/_/mongo?tab=tags
+https://github.com/alvaropaco/py-arrangement/blob/master/api/app.py
+https://www.google.com/search?ei=m9nnXtiSHZ245OUPjKKRoAw&q=flask+mongodb+rest+api&oq=flask+e+mongodb+&gs_lcp=CgZwc3ktYWIQARgDMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB5QmIMBWJyXAWDJqwFoAXAAeACAAZACiAHwA5IBBTAuMi4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab
+https://medium.com/@alvaropaconeto/python-api-flask-restfull-docker-mongodb-a66546b3b503
+https://github.com/paulo-amaral/docker-flask-mongodb-API/blob/master/app.py
+https://www.dvt.co.za/news-insights/insights/item/355-restful-web-services-using-python-flask-docker-and-mongodb
+https://duckduckgo.com/?q=flask+mongo+docler&atb=v224-7&ia=web
+https://github.com/self-tuts/flask-crud-rest-starter-kit/tree/master/api

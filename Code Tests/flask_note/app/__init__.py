@@ -1,15 +1,20 @@
-from flask import Flask, Blueprint
-# from config import client
+from flask import Flask
+from flask_mongoengine import MongoEngine
+from config import Config
 
-
-# database = client
-# collection = database.notes.notes
-
-
-developers = Blueprint('notes', __name__)
 
 app = Flask(__name__)
-app.register_blueprint(developers)
+db = MongoEngine()
+
+def create_app():
+    app.config.from_object(Config)
+
+    from app.api import api_bp
+    app.register_blueprint(api_bp, url_prefix='/v1')
+    
+    db.init_app(app)
+
+    return app
 
 
-from app import routes, models
+from . import models

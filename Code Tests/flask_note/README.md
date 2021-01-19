@@ -9,14 +9,6 @@ https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms
 
 Futuro: Questão de histórico de nota
 
-os dados nao salvam no banco
-ao criar a nota preciso passar [ ]
-remover id repetido
-
-
-http://containertutorials.com/docker-compose/flask-mongo-compose.html
-
-https://medium.com/@riken.mehta/full-stack-tutorial-flask-react-docker-ee316a46e876
 
 O __repr__método informa ao Python como imprimir objetos dessa classe, o que será útil para depuração. Você pode ver o __repr__()método em ação na sessão do interpretador Python abaixo:
 >>> from app.models import User
@@ -102,6 +94,8 @@ Run at run time only (Runtime)flask
 - [Notes App](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Notes-App.md)
 - [cookiecutter flask](https://www.google.com/search?q=cookiecutter+flask&oq=cookiecutter+flask&aqs=chrome..69i57j0l7.6670j0j7&sourceid=chrome&ie=UTF-8)
 - [Real Python](https://realpython.com/tutorials/flask/)
+
+
 
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask/tree/master/%7B%7Bcookiecutter.app_name%7D%7D/%7B%7Bcookiecutter.app_name%7D%7D)
 - []()

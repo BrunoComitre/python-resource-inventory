@@ -1,0 +1,35 @@
+version: '3.7'
+
+services:
+  flask:
+    container_name: flasknote
+    build:
+      context: .
+    restart: always
+    environment:
+      - FLASK_ENV=production
+    volumes:
+      - .:/usr/flasknote
+    ports:
+      - 5000:5000
+    command: sh -c "gunicorn -w 4 main:app --host 0.0.0.0 --port 5000 /bin/bash"
+    links:
+      - mongodb
+  
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    restart: always
+    environment:
+      - AUTH=no
+    volumes:
+      - mongoNote:/usr/flasknote/data
+    ports:
+      - 27017:27017
+
+volumes:
+    mongoNote:
+
+networks:
+  default:
+    name: web_dev

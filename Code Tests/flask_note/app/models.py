@@ -1,8 +1,17 @@
-from urllib.parse import parse_qs
+import datetime
+from uuid import uuid4
+
+from app import db
+from flask_mongoengine.wtf import model_form
 
 
-def parse_query_params(query_string):
-    """ Function to parse the query parameter string. """
-    query_params = dict(parse_qs(query_string))
-    query_params = {k: v[0] for k, v in query_params.items()}
-    return query_params
+class Note(db.Document):
+    content = db.StringField(required=True, max_length=140)
+    time = db.DateTimeField(default=datetime.datetime.now())
+    status = db.IntField(default=0)
+
+    def __repr__(self):
+        return self.content
+
+
+NoteForm = model_form(Note)
