@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 asyncio = "==3.4.3"
 signals = "==0.0.2"
-aiohttp = "==3.6.2"
+aiohttp = "==3.7.4"
 jsonlib-python3 = "==1.6.1"
 tornado = "==6.0.4"
 memory-profiler = "*"
