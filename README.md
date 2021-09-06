@@ -796,6 +796,7 @@ Links from different sites:
 - [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/)
 - [Python functions: understanding parameters, arguments, *args and **kwargs](https://medium.com/luizalabs/fun%C3%A7%C3%B5es-em-python-entendendo-par%C3%A2metros-argumentos-args-e-kwargs-4291b1f817f6)
 - [Python Scope & the LEGB Rule: Resolving Names in Your Code](https://realpython.com/python-scope-legb-rule/)
+- [List of reasons why django is awesome for web development & django bootstrap boilerplate](https://github.com/endormi/awesome-dj)
 
 [GO TO INDEX](#index)
 
