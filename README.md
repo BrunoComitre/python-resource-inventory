@@ -16,6 +16,7 @@
   - [Importants PEP](#importants-pep)
   - [Frameworks](#frameworks)
   - [Libraries](#libraries)
+  - [Environments Dependency](#environments-dependency)
   - [Graphical User Interface GUI](#graphical-user-interface-gui)
   - [DDD](#ddd)
 - [Mentors and Role Models](#mentors-and-role-models)
@@ -246,10 +247,8 @@ The following are some libraries dedicated to the study in Basic Python. There a
 - [aioadb](https://pypi.org/project/aioadb/) - A minimal async adb implementation.
 - [Authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
 - [Numpy](https://pypi.python.org/pypi/numpy) - Library for arrays and mathematical functions.
-- [Virtualenv](https://virtualenv.pypa.io/en/stable/) - It's a tool for creating isolated Python environments. The basic problem to be solved is one of the dependencies and versions and indirectly permissions.
 - [Pandas](https://pandas.pydata.org/) - It's an Open Source library, licensed by BSD, which provides high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 - [CharmPy](https://charmpy.readthedocs.io/en/latest/) - It's a high level parallel and distributed programming structure with a simple and powerful API, based on Python migrable objects and remote method invocation; built on top of an adaptable C / C ++ runtime system that provides speed, scalability and dynamic load balancing.
-- [Pip](https://pypi.org/project/pip/) - It's a package management system used to install and manage software packages written in the Python programming language.
 - [Urllib](https://docs.python.org/3/library/urllib.html) - It's a Python module for searching URLs.
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - It's a Python package for analyzing HTML and XML documents.
 - [pywebview](https://github.com/r0x0r/pywebview) - pywebview is a lightweight cross-platform wrapper around a webview component that allows to display HTML content in its own native GUI window.
@@ -262,6 +261,22 @@ The following are some libraries dedicated to the study in Basic Python. There a
 - [behave](https://behave.readthedocs.io/en/stable/) - Automation Testing.
 - [Splinter](https://splinter.readthedocs.io/en/latest/) - Automation Testing.
 - [Streamlit](https://github.com/streamlit/streamlit) - The fastest way to build and share data apps.
+
+[GO TO INDEX](#index)
+
+<br />
+
+### Environments Dependency
+
+The following are some environments dependency dedicated to manage in Basic Python. Some must-have libraries for learning:
+
+- [Virtualenv](https://github.com/pypa/virtualenv) - It's a tool for creating isolated Python environments. The basic problem to be solved is one of the dependencies and versions and indirectly permissions.
+- [Pdm](https://github.com/pdm-project/pdm) - A modern Python package manager with PEP 582 support.
+- [Poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [Pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments.
+- [DepHell](https://github.com/dephell/dephell) - Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
+- [Pyenv](https://github.com/pyenv/pyenv) - Simple Python version management.
+- [Pip](https://github.com/pypa/pip) - It's a package management system used to install and manage software packages written in the Python programming language.
 
 [GO TO INDEX](#index)
 
