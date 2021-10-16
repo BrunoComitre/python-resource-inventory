@@ -277,6 +277,7 @@ The following are some environments dependency dedicated to manage in Basic Pyth
 - [DepHell](https://github.com/dephell/dephell) - Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 - [Pyenv](https://github.com/pyenv/pyenv) - Simple Python version management.
 - [Pip](https://github.com/pypa/pip) - It's a package management system used to install and manage software packages written in the Python programming language.
+- [Asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 [GO TO INDEX](#index)
 
