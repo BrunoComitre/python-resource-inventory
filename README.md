@@ -147,6 +147,8 @@ Below is a list of sites that have an introduction to what Python is:
 
 - [PCEP – Certified Entry-Level Python Programmer Certification](https://pythoninstitute.org/certification/pcep-certification-entry-level/)
 - [Python Software Foundation](https://www.python.org/psf/)
+- [Python Official Site](https://www.python.org/)
+- [Python Academy](https://pythonacademy.com.br/)
 - [Glossário Python 3.9.1](https://docs.python.org/pt-br/3/glossary.html)
 - [An Introduction to Asynchronous Programming in Python](https://medium.com/velotio-perspectives/an-introduction-to-asynchronous-programming-in-python-af0189a88bbb)
 - [AsyncIO for the Working Python Developer](https://yeray.dev/python/asyncio/asyncio-for-the-working-python-developer)
