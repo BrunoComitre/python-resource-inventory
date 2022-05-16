@@ -36,8 +36,8 @@ packaging==20.4
 passlib==1.7.2
 pluggy==0.13.1
 psycopg2-binary==2.8.5
+pydantic==1.6.2
 py==1.10.0
-pydantic==1.5.1
 pymongo==3.10.1
 pyparsing==2.4.7
 python-dateutil==2.8.1
