@@ -22,7 +22,7 @@ autoflake==1.4
 six==1.15.0
 docutils==0.16
 flake8==3.8.2
-httpx==0.14.1
+httpx==0.23.0
 isort==5.4.2
 mypy==0.782
 pytest==6.0.1
