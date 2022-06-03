@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "tests"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pytest = "^7.1.1"
+Faker = "^13.3.3"
+factory-boy = "^3.2.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+markers = [
+    "example: marks tests as slow (deselect with '-m \"not slow\"')",
+    "smoke: marks tests as slow (deselect with '-m \"not slow\"')",
+    "number: marks tests as slow (deselect with '-m \"not slow\"')",
+    "chesse: marks tests as slow (deselect with '-m \"not slow\"')",
+    "guava: marks tests as slow (deselect with '-m \"not slow\"')",
+    "parameterization: marks tests as slow (deselect with '-m \"not slow\"')",
+    "wip: marks tests as slow (deselect with '-m \"not slow\"')",
+    "fixtures: marks tests as slow (deselect with '-m \"not slow\"')",
+    "board: marks tests as slow (deselect with '-m \"not slow\"')",
+]
