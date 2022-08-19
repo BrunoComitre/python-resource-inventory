@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "cosmicpython"
+name = "pythontest"
 version = "0.1.0"
 description = ""
 authors = ["Bruno Alves Comitre <bruno-comitre@hotmail.com>"]
