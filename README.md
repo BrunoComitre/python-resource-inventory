@@ -311,7 +311,6 @@ Domain-driven design is the concept that the structure and language of software 
 
 <br />
 
-
 ## Mentors and Role Models
 
 It is always nice to add a short column for role models nearby that inspire you:
