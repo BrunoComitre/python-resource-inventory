@@ -50,7 +50,7 @@ more-itertools==8.3.0
 pyjwt==1.7.1
 pypika==0.37.16
 regex==2020.5.14
-setuptools==49.3.1
+setuptools==65.5.1
 smmap==3.0.4
 six==1.15.0
 snowballstemmer==2.0.0
